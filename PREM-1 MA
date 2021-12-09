@@ -164,19 +164,19 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID
-http://tecnotv.club/8di/android3.php?c=52|User-Agent=elpro
+http://tecnotv.club/8di/smartv2.php?c=418
 #EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" group-title="MUNDO Y CULTURA",GARAGE TV 
 http://tecnotv.club/8di/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
 http://tecnotv.club/8di/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
-http://tecnotv.club/8di/android3.php?c=3|User-Agent=elpro
+http://tecnotv.club/8di/smartv2.php?c=419
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY SEÑAL 1
-http://tecnotv.club/8di/android3.php?c=56|User-Agent=elpro
+http://tecnotv.club/8di/smartv2.php?c=445
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",History Channel SEÑAL 2
 http://tecnotv.club/8di/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2
-http://tecnotv.club/8di/android3.php?c=55|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=h2&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb.png" group-title="CULTURA"logo="" group-title="MUNDO Y CULTURA",NAT GEO  
 http://tecnotv.club/8di/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://img2.freepng.es/20180516/fww/kisspng-nat-geo-wild-national-geographic-television-channe-live-stream-5afcbccd447341.5207558215265128452804.jpg" group-title="MUNDO Y CULTURA",NAT GEO WILD
@@ -200,7 +200,7 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H
 http://tecnotv.club/8di/geomex.php?c=96&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC
-http://tecnotv.club/8di/android3.php?c=111|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=tlc&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180705/vyw/kisspng-discovery-science-discovery-channel-investigation-tv-2-science-fiction-5b3dc0a7216761.4710949115307736711368.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE  
 http://tecnotv.club/8di/geomex.php?c=98&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-id="La2.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Andorra",La 2 (720p)
@@ -225,7 +225,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
 
 
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/logo_principal_telemundo.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO
-http://tecnotv.club/8di/android3.php?c=108|User-Agent=elpro
+http://tecnotv.club/8di/geomex.php?c=85&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
 http://tecnotv.club/8di/sport.php?c=telemundo&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E!
@@ -239,11 +239,11 @@ http://tecnotv.club/8di/sport.php?c=unimas&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION
 http://tecnotv.club/8di/smartv2.php?c=373
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo", Univision 
-http://tecnotv.club/8di/android3.php?c=102|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=univ-1&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="TV PREMIUM",UNIVERSO
 http://tecnotv.club/8di/sport.php?c=universo&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV 
-http://tecnotv.club/8di/android3.php?c=16|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=caracol&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ
 http://tecnotv.club/8di/geomex.php?c=76&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="ENTRETENIMIENTO",atv
@@ -265,7 +265,7 @@ http://tecnotv.club/8di/geomex.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON 
 http://tecnotv.club/8di/geomex.php?c=70&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES
-http://tecnotv.club/8di/android3.php?c=119|User-Agent=elpro
+http://tecnotv.club/8di/smartv2.php?c=368
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3
 http://tecnotv.club/8di/geomex.php?c=199&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE
@@ -281,7 +281,7 @@ http://tecnotv.club/8di/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - Señal 1
 http://tecnotv.club/8di/geomex.php?c=1842&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - Señal 2
-http://tecnotv.club/8di/android3.php?c=48|User-Agent=elpro
+http://tecnotv.club/8di/smartv.php?c=maschic&k=tecno&f=.m3u8
 
 
 
@@ -329,9 +329,10 @@ http://tecnotv.club/8di/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/8di/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME 
 http://tecnotv.club/8di/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/fc/fc2f6e0937f559dba2befe9347eaa8d2.jpeg" group-title="SERIES Y CINE",Sundance TV
+http://tecnotv.club/8di/smartv2.php?c=466
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES
 http://tecnotv.club/8di/geomex.php?c=2113&p=3&k=tecnotv&f=.m3u8
-
 
 
 
@@ -374,7 +375,7 @@ http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=66|User-Agent=megaplaye
 #EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA
 http://tecnotv.club/8di/smartv.php?c=mc
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT 
-http://tecnotv.club/8di/smartv2.php?c=459  
+http://tecnotv.club/8di/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM
 http://tecnotv.club/8di/geomex.php?c=128&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE
@@ -751,11 +752,11 @@ http://tecnotv.club/8di/smartv2.php?c=1954
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
 http://tecnotv.club/8di/smartv2.php?c=1870
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="DEPORTES",WIN SPORTS PLUS SEÑAL
-http://tecnotv.club/8di/sport.php?c=winplus
+http://tecnotv.club/8di/smartv2.php?c=1869
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports México
-http://tecnotv.club/8di/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports Argentina
 http://tecnotv.club/8di/smartv2.php?c=1907
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports Argentina
+http://tecnotv.club/8di/smartv2.php?c=1899
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports 2 Chile
 http://tecnotv.club/8di/smartv2.php?c=1900
 #EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="DEPORTES",CDO BASICO
@@ -769,7 +770,7 @@ http://tecnotv.club/8di/smartv2.php?c=1918
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS
-http://tecnotv.club/di2/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/8di/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES",UFC
 http://tecnotv.club/8di/smartv2.php?c=1913
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS
@@ -789,11 +790,11 @@ http://tecnotv.club/8di/smartv2.php?c=1944
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV
 http://tecnotv.club/8di/smartv2.php?c=1945
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",Tigo Sports 1
-http://tecnotv.club/8di/android3.php?c=339|User-Agent=elpro
+http://tecnotv.club/8di/android3.php?c=339|User-Agent=tupro
 #EXTINF:-1 logo="https://i.pinimg.com/originals/5c/72/a6/5c72a626639831531789ea2d91ed3b86.jpg" group-title="DEPORTES",Tigo Sports 2
-http://tecnotv.club/8di/android3.php?c=340|User-Agent=elpro
+http://tecnotv.club/8di/android3.php?c=340|User-Agent=tupro
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN_400x400.jpg" group-title="DEPORTES",Tigo Sports 3
-http://tecnotv.club/8di/android3.php?c=341|User-Agent=elpro
+http://tecnotv.club/8di/android3.php?c=341|User-Agent=tupro
 EXTINF:-1 tvg-id="" tvg-name=" Real Madrid TV" tvg-logo="https://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/1.png" group-title="DEPORTES", Real Madrid TV
 http://tecnotv.club/8di/smartv2.php?c=1906
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES",Movistar Deportes
