@@ -15,12 +15,18 @@ http://127.0.0.1
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO
-http://tecnotv.club/8di/smartv2.php?c=502
+http://tecnotv.club/8di/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD
 http://tecnotv.club/8di/geomex.php?c=7&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS
-http://tecnotv.club/8di/smartv2.php?c=389
+http://tecnotv.club/8di/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD
 http://tecnotv.club/8di/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",CAnal 4 - TV4 (4.1) Señal 1
@@ -32,21 +38,21 @@ https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="101690" tvg-name="TV4 Deportes" tvg-logo="https://lh3.googleusercontent.com/-BjGOcjKFRdI/XpZoDfSoLmI/AAAAAAAAx3k/gTlVrDhiO6gAf3yIV6JEk3fa6qFhcuoLQCK8BGAsYHg/s0/2020-04-14.png" group-title="MEXICO", TV4 3 (4.3) 
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5
-http://tecnotv.club/8di/smartv2.php?c=503
+http://tecnotv.club/8di/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1333859673888464901/_0-cae_U_400x400.jpg" group-title="MEXICO",CANAL 5 HD
 http://tecnotv.club/8di/geomex.php?c=1785&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://destel.mx/wp-content/uploads/2016/04/418.png" group-title="MEXICO",AZTECA 7
-http://tecnotv.club/8di/smartv2.php?c=403
+http://tecnotv.club/8di/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 HD SEÑAL 1
 http://tecnotv.club/8di/geomex.php?c=317&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 HD (2) SEÑAL 2
 http://tecnotv.club/8di/geomex.php?c=322&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE
-http://tecnotv.club/8di/smartv.php?c=elnueve&k=tecno&f=.m3u8
+http://tecnotv.club/8di/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE HD
 http://tecnotv.club/8di/geomex.php?c=1783&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE
-http://tecnotv.club/8di/smartv.php?c=oncetvhd&k=tecno&f=.m3u8
+http://tecnotv.club/8di/geomex.php?c=25&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD 
 http://tecnotv.club/8di/geomex.php?c=1942&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.mexicoescultura.com/galerias/actividades/principal/once_ninos.jpg" group-title="TV PREMIUM" group-title="MEXICO",ONCE NIÑOS (CLASES)
@@ -58,13 +64,13 @@ http://tecnotv.club/8di/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD  
 http://tecnotv.club/8di/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO
-http://tecnotv.club/8di/smartv2.php?c=433
+http://tecnotv.club/8di/geomex.php?c=84&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ 
-http://tecnotv.club/8di/smartv2.php?c=501
+http://tecnotv.club/8di/geomex.php?c=2316&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO",TELEFORMULA
 http://tecnotv.club/8di/geomex.php?c=32&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV
-http://tecnotv.club/8di/smartv2.php?c=475
+http://tecnotv.club/8di/geomex.php?c=44&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC
 http://tecnotv.club/8di/geomex.php?c=2156&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV
@@ -121,23 +127,23 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="47417" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion Señal 2
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST
-http://tecnotv.club/8di/smartv2.php?c=376
+http://tecnotv.club/8di/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS
-http://tecnotv.club/8di/smartv2.php?c=338  
+http://tecnotv.club/8di/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK
-http://tecnotv.club/8di/smartv2.php?c=367
+http://tecnotv.club/8di/android.php?c=123|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC
-http://tecnotv.club/8di/smartv2.php?c=409
+http://tecnotv.club/8di/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD
-http://tecnotv.club/8di/smartv2.php?c=440
+http://tecnotv.club/8di/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids | CL
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK
 http://tecnotv.club/8di/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL
-http://tecnotv.club/8di/smartv2.php?c=437  
+http://tecnotv.club/8di/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://img2.freepng.es/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="INFANTIL",BOOMERANG
-http://tecnotv.club/8di/smartv2.php?c=441
+http://tecnotv.club/8di/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV 
 http://tecnotv.club/8di/geomex.php?c=116&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR
@@ -324,9 +330,7 @@ http://tecnotv.club/8di/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN
 http://tecnotv.club/8di/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES
-http://tecnotv.club/8di/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 user-agent="W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY" tvg-logo="/TNTseries.png" group-title="CINE Y SERIES",Tnt Series
-http://tecnotv.club/8di/android.php?c=147|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+http://tecnotv.club/8di/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Life
 http://tecnotv.club/8di/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME 
@@ -462,7 +466,6 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV | CL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
-
 
 
 
