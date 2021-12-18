@@ -169,7 +169,9 @@ http://tecnotv.club/dic17/android.php?c=105|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4ha
 #EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" group-title="MUNDO Y CULTURA",GARAGE TV 
 http://tecnotv.club/dic17/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
-http://tecnotv.club/dic17/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8  
+http://tecnotv.club/dic17/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.152.107:81/posters/1502753127251.jpg" group-title="TV PREMIUM 2",Discovery Channel
+http://tecnotv.club/dic17/smartv2.php?c=3048
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://tecnotv.club/dic17/android3.php?c=3|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY SEÑAL 1
@@ -355,7 +357,9 @@ http://tecnotv.club/dic17/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN
 http://tecnotv.club/dic17/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES
-http://tecnotv.club/dic17/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/dic17/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="TV PREMIUM 2",TNT Series
+http://tecnotv.club/dic17/smartv2.php?c=3131
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Life
 http://tecnotv.club/dic17/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME 
@@ -477,6 +481,8 @@ http://tecnotv.club/dic17/android3.php?c=60|User-Agent=megapro
 http://tecnotv.club/dic17/android3.php?c=63|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
 http://tecnotv.club/dic17/android3.php?c=62|User-Agent=megapro
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://51.222.152.107:81/posters/1501809803170.jpg" group-title="TV PREMIUM 2",HBO Family
+http://tecnotv.club/dic17/smartv2.php?c=3298
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus
 http://tecnotv.club/dic17/android3.php?c=59|User-Agent=megapro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature
