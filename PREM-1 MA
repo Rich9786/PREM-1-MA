@@ -170,8 +170,6 @@ http://tecnotv.club/dic17/android.php?c=105|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4ha
 http://tecnotv.club/dic17/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
 http://tecnotv.club/dic17/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.152.107:81/posters/1502753127251.jpg" group-title="TV PREMIUM 2",Discovery Channel
-http://tecnotv.club/dic17/smartv2.php?c=3048
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://tecnotv.club/dic17/android3.php?c=3|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY SEÑAL 1
@@ -358,8 +356,6 @@ http://tecnotv.club/dic17/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/dic17/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES
 http://tecnotv.club/dic17/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="TV PREMIUM 2",TNT Series
-http://tecnotv.club/dic17/smartv2.php?c=3131
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Life
 http://tecnotv.club/dic17/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME 
@@ -465,8 +461,6 @@ http://tecnotv.club/dic17/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/dic17/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun
 http://tecnotv.club/dic17/android3.php?c=84|User-Agent=megapro
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family (Star Fun)" tvg-logo="" group-title="TV PREMIUM 2",FOX Family (Star Fun)
-http://tecnotv.club/dic17/smartv2.php?c=3289
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy
 http://tecnotv.club/dic17/android3.php?c=85|User-Agent=megapro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi
