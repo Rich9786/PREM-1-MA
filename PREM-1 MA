@@ -465,6 +465,8 @@ http://tecnotv.club/dic17/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/dic17/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/49Z7vBe.png" group-title="CINE",Star Fun
 http://tecnotv.club/dic17/android3.php?c=84|User-Agent=megapro
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family (Star Fun)" tvg-logo="" group-title="TV PREMIUM 2",FOX Family (Star Fun)
+http://tecnotv.club/dic17/smartv2.php?c=3289
 #EXTINF:-1 logo="https://i.imgur.com/U5TMnGD.png" group-title="CINE",Star Comedy
 http://tecnotv.club/dic17/android3.php?c=85|User-Agent=megapro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi
@@ -481,8 +483,6 @@ http://tecnotv.club/dic17/android3.php?c=60|User-Agent=megapro
 http://tecnotv.club/dic17/android3.php?c=63|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
 http://tecnotv.club/dic17/android3.php?c=62|User-Agent=megapro
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://51.222.152.107:81/posters/1501809803170.jpg" group-title="TV PREMIUM 2",HBO Family
-http://tecnotv.club/dic17/smartv2.php?c=3298
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus
 http://tecnotv.club/dic17/android3.php?c=59|User-Agent=megapro
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature
