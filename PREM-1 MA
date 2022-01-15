@@ -1759,8 +1759,10 @@ http://clubtv.link/10n/geomex.php?c=174&f=.m3u8
 http://clubtv.link/10n/geomex2.php?c=174&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - LIS 5
 http://clubtv.link/10n/lista5.php?c=698&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA - GDEPOR
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA S1- GDEPOR
 http://clubtv.link/10n/sport.php?c=tudn-us&k=tecno&f=.m3u8
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA S2- GDEPOR
+http://clubtv.link/10n/smartv2.php?c=3215
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=1049&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - MX
