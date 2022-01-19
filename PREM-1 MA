@@ -620,7 +620,7 @@ http://regioplay.xyz/php/SR_REGIO_511022_/regiotv2.php?c=102|User-Agent=tuplayer
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="TV PREMIUM",UNIVERSO - GDEPOR
 http://clubtv.link/nn17/sport.php?c=universo&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV - GANDR 3
-http://clubtv.link/nn17/android3.php?c=16|User-Agent=tupro
+http://clubtv.link/nn17/android3.php?c=16|User-Agent=espro
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol TV S1 - ANDR
 http://regioplay.xyz/php/SR_REGIO_511022_/regiotv2.php?c=16|User-Agent=tuplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol TV S2 - ANDR
