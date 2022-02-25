@@ -71,7 +71,7 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1784&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1784&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - ANDR
-http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=145|User-Agent=megapro
+http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=145|User-Agent=suplayer
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) 1
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 
@@ -255,7 +255,7 @@ http://clubtv.link/21fb/geomex3.php?c=84&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=84&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - ANDR
-http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=5|User-Agent=megapro
+http://regioplay.xyz/php/SR_REGIO_422022_/regiotv2.php?c=5|User-Agent=suplayer
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO
 http://clubtv.link/21fb/geomex.php?c=2316&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO 2
@@ -351,7 +351,7 @@ http://clubtv.link/21fb/geomex2.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GEO 3
 http://clubtv.link/21fb/geomex3.php?c=108&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - GANDR 3
-http://clubtv.link/21fb/android3.php?c=107|User-Agent=megapro
+http://clubtv.link/21fb/android3.php?c=107|User-Agent=suplayer
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS HD - LIS 1
