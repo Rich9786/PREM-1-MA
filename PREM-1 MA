@@ -2548,10 +2548,10 @@ http://clubtv.link/f26/geomex.php?c=194&f=.m3u8
 http://clubtv.link/f26/geomex2.php?c=194&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIAS",NTN 24 - GEO 3
 http://clubtv.link/f26/geomex3.php?c=194&f=.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1035949261681315840/z7T_EQYR_400x400.jpg" group-title="MEXICO",TN23 - Lis 2
-http://clubtv.link/f26/lista2.php?c=a08g&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIAS",NTN 24 - MX
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=194&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1035949261681315840/z7T_EQYR_400x400.jpg" group-title="MEXICO",TN23 - Lis 2
+http://clubtv.link/f26/lista2.php?c=a08g&f=.m3u8
 #EXTINF:-1 logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/recurso_1.jpg?JEY8Nx8wo_YqUR.t2ssC9niRQqIKZOiW&itok=LUfkzY_N" group-title="NOTICIAS",JUSTICIA TV - GEO 
 http://clubtv.link/f26/geomex.php?c=196&f=.m3u8
 #EXTINF:-1 logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/recurso_1.jpg?JEY8Nx8wo_YqUR.t2ssC9niRQqIKZOiW&itok=LUfkzY_N" group-title="NOTICIAS",JUSTICIA TV - GEO 2
