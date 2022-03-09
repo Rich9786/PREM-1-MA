@@ -228,7 +228,7 @@ http://clubtv.link/mar8/geomex2.php?c=3315&f=.m3u8
 #EXTINF:-1 logo="https://www.mexicoescultura.com/galerias/actividades/principal/once_ninos.jpg" group-title="TV PREMIUM" group-title="MEXICO",ONCE NIÑOS (CLASES) - GEO 3
 http://clubtv.link/mar8/geomex3.php?c=3315&f=.m3u8
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://lh3.googleusercontent.com/-q7jIr6lWtWE/XzguPkxejlI/AAAAAAAA4cE/vp0f0PtM-eIcHrNeOhL9rxByMIa-35FFQCK8BGAsYHg/s0/2020-08-15.jpg", Canal Catorce
-http://clubtv.link/f26/lista2.php?c=a044&f=.m3u8
+http://clubtv.link/mar8/lista2.php?c=a044&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfI0M2b.png" group-title="MEXICO",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - LIS 2
@@ -1023,7 +1023,7 @@ http://clubtv.link/mar8/geomex3.php?c=74&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - MX
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO
-http://clubtv.link/mar8/geomex.php?c=78&f=.m3u8
+http://clubtv.link/mar8/ch8/geomex.php?c=78&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO 2
 http://clubtv.link/mar8/geomex2.php?c=78&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO 3
