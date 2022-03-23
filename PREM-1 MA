@@ -930,8 +930,8 @@ http://clubtv.link/21m3/android3.php?c=104|User-Agent=suplayer
 http://regioplay.xyz/php/SR_REGIO_223022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE - ANDR
 http://regioplay.xyz/php/SR_REGIO_223022_/regiotv2.php?c=104|User-Agent=suplayer
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - GDEPOR
-http://clubtv.link/21m3/sport.php?c=unimas&k=tecno&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - TV
+http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=unimas&k=SrRegio2022&f=.m3u8
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - TV
 http://regioplay.xyz/php/SR_REGIO_223022_/regio22dd.php?c=galavision&k=&f=.m3u8
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS 2
