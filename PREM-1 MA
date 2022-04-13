@@ -2260,9 +2260,6 @@ http://clubtv.link/11ab/abril1/distro.php?c=tu.cine-latam&f=.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="==== SERIES Y CINE 24/7 ====" tvg-logo="https://1.bp.blogspot.com/-zIdGNqDC9mQ/XOw_NUQ5pUI/AAAAAAAAB8E/_kjAhfm-DMklTDg9OOzC1EVTVNey0aaUQCLcBGAs/s1600/Screenshot_20190527-144354.png" group-title="SERIES Y CINE 24/7",== 24/7 ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
@@ -2274,7 +2271,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 http://clubtv.link/11ab/abril1/android2.php?c=941.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=290|User-Agent=suplayer
-#EXTINF:-1 logo="https://tusbuenasnoticias.com/wp-content/uploads/2019/06/portada-El-Chavo-del-Ocho-1.jpg" group-title="24/7", EL CHAVO DEL 8 - TV
+#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=942.ts|User-Agent=TVKINGpropiedadDeShortGod
@@ -2288,9 +2285,9 @@ http://clubtv.link/11ab/abril1/android2.php?c=921.ts|User-Agent=TVKINGpropiedadD
 http://clubtv.link/11ab/abril1/android3.php?c=254|User-Agent=suplayer
 #EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/YuLJCo5Ufzo/maxresdefault.jpg" group-title="24/7", Dinosaurios - GANDR 2
+#EXTINF:-1 logo="https://sm.ign.com/ign_es/tv/d/dinosaurs-/dinosaurs-1_rvd8.jpg" group-title="24/7", Dinosaurios - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=939.ts|User-Agent=TVKINGpropiedadDeShortGod
-#EXTINF:-1 logo="https://i.ytimg.com/vi/YuLJCo5Ufzo/maxresdefault.jpg" group-title="24/7", Dinosaurios - GANDR 3
+#EXTINF:-1 logo="https://lwlies.com/wp-content/uploads/2021/01/dinoaurs-disney-plus.jpg" group-title="24/7", Dinosaurios - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=285|User-Agent=suplayer
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=959.ts|User-Agent=TVKINGpropiedadDeShortGod
@@ -2318,7 +2315,7 @@ http://clubtv.link/11ab/abril1/android2.php?c=953.ts|User-Agent=TVKINGpropiedadD
 
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=961.ts|User-Agent=TVKINGpropiedadDeShortGod
-#EXTINF:-1 logo="https://pics.filmaffinity.com/Batman_Serie_de_TV-898081393-large.jpg" group-title="24/7",Batman Retro 1966 - GANDR 2
+#EXTINF:-1 logo="https://www.the-arcade.ie/wp-content/uploads/2014/05/Batman-Robin-1966-TV-Adam-West-Burt-Ward-Wallpaper-c.jpg" group-title="24/7",Batman Retro 1966 - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=924.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_833783-MLV47287452100_082021-O.jpg" group-title="24/7",Locos Adams
 http://clubtv.link/11ab/abril1/android2.php?c=956.ts|User-Agent=TVKINGpropiedadDeShortGod
@@ -2372,9 +2369,9 @@ http://clubtv.link/11ab/abril1/android3.php?c=268|User-Agent=suplayer
 http://clubtv.link/11ab/abril1/android2.php?c=955.ts|User-Agent=TVKINGpropiedadDeShortGod
 #EXTINF:-1 logo="https://e.radio-grpp.io/normal/2018/07/05/065106_640929.jpg" group-title="24/7", Le temes a la oscuridad - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=244|User-Agent=suplayer
-#EXTINF:-1 logo="https://cineenlinea.net/especiales/LOS%20ESTRENOS%20DEL%20MOMENTO/JPEG/LOGO-FOX-ESTRENOS-baja.jpg" group-title="24/7", PELICULAS ESTRENOS 2018 - GANDR 2
+#EXTINF:-1 logo="https://i.ytimg.com/vi/CQXnH1pGXDg/maxresdefault.jpg" group-title="24/7", PELICULAS ESTRENOS 2018 - GANDR 2
 
-#EXTINF:-1 logo="https://cineenlinea.net/especiales/LOS%20ESTRENOS%20DEL%20MOMENTO/JPEG/LOGO-FOX-ESTRENOS-baja.jpg" group-title="24/7", PELICULAS ESTRENOS 2018 - GANDR 3
+#EXTINF:-1 logo="https://i.ytimg.com/vi/CQXnH1pGXDg/maxresdefault.jpg" group-title="24/7", PELICULAS ESTRENOS 2018 - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=250|User-Agent=suplayer
 #EXTINF:-1 logo="http://futurama.yaia.com/imagenes/futurama_078.jpg" group-title="24/7", FUTURAMA 1999 - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=944.ts|User-Agent=TVKINGpropiedadDeShortGod
@@ -2406,11 +2403,11 @@ http://clubtv.link/11ab/abril1/android3.php?c=245|User-Agent=suplayer
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=1012.ts|User-Agent=TVKINGpropiedadDeShortGod
-#EXTINF:-1 logo="https://pics.filmaffinity.com/Cantinflas_Show_Serie_de_TV-651998370-mmed.jpg" group-title="24/7",Cantinflas - GANDR 2
+#EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=930.ts|User-Agent=TVKINGpropiedadDeShortGod
-#EXTINF:-1 logo="https://lospalomeros.com/wp-content/uploads/2019/07/picapiedra-1024x768.jpg" group-title="24/7", Los picapiedras - GANDR 2
+#EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedras - GANDR 2
 http://clubtv.link/11ab/abril1/android2.php?c=958.ts|User-Agent=TVKINGpropiedadDeShortGod
-#EXTINF:-1 logo="https://lospalomeros.com/wp-content/uploads/2019/07/picapiedra-1024x768.jpg" group-title="24/7", Los picapiedras - GANDR 3
+#EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedras - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=243|User-Agent=suplayer
 #EXTINF:-1 tvg-id="" tvg-name="Don Gato y su Pandilla" tvg-logo="http://51.222.152.107:81/posters/1610693311265.jpg" group-title="24/7",Don Gato y su Pandilla
 
@@ -2575,7 +2572,6 @@ http://clubtv.link/11ab/abril1/android3.php?c=283|User-Agent=suplayer
 #EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER - GANDR 3
 http://clubtv.link/11ab/abril1/android3.php?c=282|User-Agent=suplayer
 #EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER
-
 
 
 
