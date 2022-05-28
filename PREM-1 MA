@@ -2009,26 +2009,28 @@ https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family - LIS 1
 
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3324&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - GANDR 2
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - GANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR
 http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=133|User-Agent=suplayer
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3326&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - GANDR 2
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - GANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS 1
 http://clubtv.link/m26m/m26m/lista1.php?c=a011
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - TV
 
+#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3159&f=.m3u8
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - GANDR 2
 
-#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - GANDR 3
-
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - GANDR 2
-
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3299&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - LIS 1
 http://clubtv.link/m26m/m26m/lista1.php?c=a02v
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - GANDR 1
@@ -2039,6 +2041,8 @@ http://clubtv.link/m26m/m26m/lista1.php?c=a02v
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO SUBTITULADO - ANDR
 http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=60|User-Agent=suplayer
+#EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3322&f=.m3u8
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - LIS 1
 http://clubtv.link/m26m/m26m/lista1.php?c=a00z
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - GANDR 1
@@ -2047,6 +2051,8 @@ http://clubtv.link/m26m/m26m/lista1.php?c=a00z
 
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - ANDR
 http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=63|User-Agent=suplayer
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3323&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS 1
 http://clubtv.link/m26m/m26m/lista1.php?c=a012
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - GANDR 1
@@ -2055,6 +2061,8 @@ http://clubtv.link/m26m/m26m/lista1.php?c=a012
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - ANDR
 http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=62|User-Agent=suplayer
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3321&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - GANDR 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS 1
@@ -2065,8 +2073,8 @@ http://clubtv.link/m26m/m26m/lista1.php?c=a010
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR
 http://regioplay.xyz/php/SR_REGIO_715022_/regiotv2.php?c=59|User-Agent=suplayer
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - GANDR 1
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - GEO
+http://clubtv.link/m26m/m26m/respaldo.php?c=3325&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - GANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - LIS 1
