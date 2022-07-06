@@ -2998,27 +2998,27 @@ http://127.0.0.1
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN MX - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=169&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=169&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - GEO 3
 
+#EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - GEO 2
+
+#EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=169&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - TV
 
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=169&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=169&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 HD - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GDEPOR
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=168&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=168&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GEO 3
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GEO 2
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=168&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 S1 - LIS 3
@@ -3028,7 +3028,7 @@ http://clubtv.link/24jun/2727j/geomex2.php?c=168&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - TV
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=168&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=168&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 - ANDR
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 HD - LIS 1
@@ -3036,17 +3036,17 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=168&p=3&k=srregio&f=.m3u
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GANDR
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=345&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=345&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GEO 3
 
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GEO 2
+
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=345&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - LIS 3
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - TV
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=345&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=345&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 - ANDR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ESPN4_logo.png" group-title="DEPORTES",ESPN 4 - LIS 1
@@ -3056,15 +3056,15 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=345&p=3&k=srregio&f=.m3u
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - LIS 1
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GEO 
-http://clubtv.link/24jun/2727j/geomex.php?c=167&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=167&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GEO 3
 
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GEO 2
+
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=167&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - GANDR 1
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=167&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=167&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA - ANDR
 
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN SUR - GANDR 1
@@ -3092,11 +3092,11 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=167&p=3&k=srregio&f=.m3u
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS 1 - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=170&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=170&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - GEO 3
 
+#EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - GEO 2
+
+#EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=170&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - LIS 1
 
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - LIS 3
@@ -3108,7 +3108,7 @@ http://clubtv.link/24jun/2727j/geomex2.php?c=170&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - TV
 
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=170&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=170&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS - ANDR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 - LIS 1
@@ -3126,7 +3126,7 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=170&p=3&k=srregio&f=.m3u
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 MX - GANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=172&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=172&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 - ANDR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - Lis 1
@@ -3136,7 +3136,7 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=172&p=3&k=srregio&f=.m3u
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - TV
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=178&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=178&p=3&k=SrRegio&token=regioplay&f=.m3u8 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 SUR - GANDR 1
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 SUR - ANDR
@@ -3154,17 +3154,17 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=178&p=3&k=srregio&f=.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fox sports premiun" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3951.png" group-title="DEPORTES",Fox sports premiun HD - LIS 1
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=1049&f=.m3u8
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=1049&f=.m3u8
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=1049&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=174&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=174&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - GEO 3
 
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - GEO 2
+
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=174&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN MX - LIS 3
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA - LIS 3
@@ -3172,9 +3172,9 @@ http://clubtv.link/24jun/2727j/geomex2.php?c=174&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA S1- GDEPOR
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=1049&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=1049&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=174&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=174&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Izzi Afizzionados - LIS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports - GANDR 1
@@ -3194,25 +3194,25 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=174&p=3&k=srregio&f=.m3u
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="DEPORTES",TYC Sports - TV
 
 #EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=180&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=180&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - GEO 3
 
+#EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - GEO 2
+
+#EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=180&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - LIS 3
 
 #EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=180&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=180&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=1799&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=1799&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - GEO 3
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - GEO 2
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=1799&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=1799&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=1799&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES",UFC - GANDR 3
 
 #EXTINF:-1 logo="https://nrd.es/wp-content/uploads/fight-time.jpg" group-title="DEPORTES",Fight Time
@@ -3220,21 +3220,21 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=1799&p=3&k=srregio&f=.m3
 #EXTINF:-1 none="DEPORTES 2" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="PLUTO TV",TV DEPORTES - GDEPOR
 
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=2089&f=.m3u8
+
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=2089&f=.m3u8
+
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=2089&f=.m3u8
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=2089&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=2089&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=2148&f=.m3u8
-#EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=2148&f=.m3u8
-#EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - GEO 3
 
+#EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - GEO 2
+
+#EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=2148&f=.m3u8
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=2148&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=2148&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",PXTV SPORTS - LIS 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
@@ -3244,19 +3244,19 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES - LIS 5
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=2157&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=2157&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=2157&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=2157&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=2157&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=2564&f=.m3u8
-#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=2564&f=.m3u8
-#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - GEO 3
 
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - GEO 2
+
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=2564&f=.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS - LIS 1
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS - LIS 3
@@ -3264,7 +3264,7 @@ http://clubtv.link/24jun/2727j/geomex2.php?c=2564&f=.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS - TV
 
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS HD - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=2564&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=2564&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CDF Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/2560px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTES",TD+2 CR - LIS 1
 
 #EXTINF:-1 tvg-id="" tvg-name="CDF Premium" tvg-logo="https://i.ytimg.com/vi/yPMx6oDUS0Q/maxresdefault.jpg" group-title="DEPORTES",TD+HD CR - LIS 2
@@ -3316,21 +3316,21 @@ https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Algeria",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD - GEO 
-http://clubtv.link/24jun/2727j/geomex.php?c=2587&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=2587&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD - GEO 2
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD - GEO 2
+http://clubtv.link/24jun/2727j/geomex3.php?c=2587&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=2587&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=2587&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=179&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=179&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - GEO 3
 
+#EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - GEO 2
+
+#EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=179&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=179&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=179&p=3&k=SrRegio&token=regioplay&f=.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES",MLB
 
 
@@ -3415,43 +3415,43 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=211&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=211&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - GEO 3
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - GEO 2
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=211&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=211&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=211&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE - ANDR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="MUSICA",MTV HITS SD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=213&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="MUSICA",MTV HITS SD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=213&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="MUSICA",MTV HITS SD - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=213&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="MUSICA",MTV HITS - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=213&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=213&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6c/MTV_80s_logo.png/revision/latest?cb=20200803222602" group-title="MUSICA",MTV 80s SD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=214&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6c/MTV_80s_logo.png/revision/latest?cb=20200803222602" group-title="MUSICA",MTV 80s SD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=214&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6c/MTV_80s_logo.png/revision/latest?cb=20200803222602" group-title="MUSICA",MTV 80s SD - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=214&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6c/MTV_80s_logo.png/revision/latest?cb=20200803222602" group-title="MUSICA",MTV 80s - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=214&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=214&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s SD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=217&f=.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s SD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=217&f=.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s SD - GEO 3
-
+http://clubtv.link/24jun/2727j/geomex3.php?c=217&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=334&f=.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=334&f=.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - GEO 3
 
+#EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - GEO 2
+
+#EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=334&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s - LIS 1
 
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s - LIS 3
@@ -3459,48 +3459,49 @@ http://clubtv.link/24jun/2727j/geomex2.php?c=334&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s - ANDR
 
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=217&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=217&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s HD - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=334&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=334&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://www.freeetv.com/images/02_logo/exa_tv_mexico.jpg" group-title="MUSICA",EXA TV - Lis 1
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=218&f=.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=218&f=.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - GEO 3
 
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - GEO 2
+
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=218&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=218&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=218&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - HD LIS 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=220&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=220&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - GEO 3
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - GEO 2
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=220&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - MX
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=220&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=220&p=3&k=SrRegio&token=regioplay&f=.m3u8
 #EXTINF:-1 logo="https://thumbs.dreamstime.com/b/ejemplo-creativo-del-dise%C3%B1o-s%C3%ADmbolo-texto-flash-de-la-letra-124559109.jpg" group-title="MUSICA",FLASH - TV
 http://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=flash-1&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="MUSICA",Concert Channel - LIS 1
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=1708&f=.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=1708&f=.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO 3
 
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO 2
+
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=1708&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - LIS 3
 
 #EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO
-http://clubtv.link/24jun/2727j/geomex.php?c=221&f=.m3u8
-#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO 2
-http://clubtv.link/24jun/2727j/geomex2.php?c=221&f=.m3u8
-#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO 3
 
-#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - LIS 3
+#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO 2
+
+#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - GEO 3
+http://clubtv.link/24jun/2727j/geomex3.php?c=221&f=.m3u8
+#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD - MX
+http://regioplay.xyz/php/SR_REGIO_526022_/tpnuevo01.php?c=221&p=3&k=SrRegio&token=regioplay&f=.m3u8
 
 
 
