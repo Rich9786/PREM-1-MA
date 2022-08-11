@@ -2314,13 +2314,12 @@ http://clubtv.link/10agos/agosto10/lista2.php?c=a0ot&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR
 
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream - CL
-https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie - CL
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="891" tvg-name="TVMas Chile" tvg-logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp", TVMas Chile - CL
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV | CL
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
 
