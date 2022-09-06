@@ -1778,6 +1778,8 @@ http://clubtv.link/2sep/token209/lista2.php?c=a0pi&f=.m3u8
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - ANDR
 
+#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Series | CL
+https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE - GEO
 http://clubtv.link/2sep/token209/geomex.php?c=2375&f=.m3u8
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE - GEO 2
@@ -1933,6 +1935,8 @@ http://clubtv.link/2sep/token209/geomex3.php?c=140&f=.m3u8
 
 #EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - GEO
 
+#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
+https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO - LIS 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - GEO
@@ -1994,7 +1998,9 @@ http://clubtv.link/2sep/token209/lista2.php?c=a0o5&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS 2
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV - CL
-
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD - LIS 1
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT - GEO
@@ -2228,9 +2234,13 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV HD - CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
-
+https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
+https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
+https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" nada="España" group-title="TV PREMIUM",Canal+ Accion - LIS 1
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz HD - LIS 1
@@ -2314,9 +2324,9 @@ http://clubtv.link/2sep/token209/lista2.php?c=a0ot&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR
 
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream - CL
-
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie - CL
-
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="891" tvg-name="TVMas Chile" tvg-logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp", TVMas Chile - CL
 
 #EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV | CL
