@@ -4452,30 +4452,42 @@ http://clubtv.link/2sep/token209/peliculas.php?id=1819
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/PZKQHGK.png" group-title="PELÍCULAS",Vertigo
+http://clubtv.link/movies/vertigo
 #EXTINF:-1 tvg-logo="https://imgur.com/ihaFtfr.png" group-title="PELÍCULAS",Doctor Strange 2
 http://clubtv.link/movies/docstrange2
 #EXTINF:-1 tvg-logo="https://imgur.com/cyag3FF.png" group-title="PELÍCULAS",Ciudad Perdida
 http://clubtv.link/movies/ciudadperdida
 #EXTINF:-1 tvg-logo="https://imgur.com/QSFAKrA.png" group-title="PELÍCULAS",Ambulancia
 http://clubtv.link/movies/ambulancia
-#EXTINF:-1 tvg-logo="https://imgur.com/jXHV0gP.png" group-title="PELÍCULAS",La Abuela
-http://clubtv.link/movies/laabuela
+#EXTINF:-1 tvg-logo="https://imgur.com/lt13tA4.png" group-title="PELÍCULAS",Nop
+http://clubtv.link/movies/nop
+#EXTINF:-1 tvg-logo="https://imgur.com/lswHLMo.png" group-title="PELÍCULAS",Top Gun: Maverick
+http://clubtv.link/movies/topgun
 #EXTINF:-1 tvg-logo="https://imgur.com/dc8kvlm.png" group-title="PELÍCULAS",Matrix Resurrection
 http://clubtv.link/movies/matrix4
+#EXTINF:-1 tvg-logo="https://imgur.com/XfXV9Vo.png" group-title="PELÍCULAS",Thor Amor y Trueno 
+http://clubtv.link/movies/thor
 #EXTINF:-1 tvg-logo="https://imgur.com/izaUIOC.png" group-title="PELÍCULAS",Chip y Dale
 http://clubtv.link/movies/chip
+#EXTINF:-1 tvg-logo="https://imgur.com/5bki6fp.png" group-title="PELÍCULAS",Pinocho
+http://clubtv.link/movies/pinocho
+#EXTINF:-1 tvg-logo="https://imgur.com/3yeuUTA.png" group-title="PELÍCULAS",Lightyear
+http://clubtv.link/movies/lightyear
+#EXTINF:-1 tvg-logo="https://imgur.com/kkTr3y6.png" group-title="PELÍCULAS",Minios: El origen de Gru
+http://clubtv.link/movies/villano
 #EXTINF:-1 tvg-logo="https://imgur.com/1164i95.png" group-title="PELÍCULAS",Morbius
 http://clubtv.link/movies/morbius
 #EXTINF:-1 tvg-logo="https://imgur.com/p1jnjj8.png" group-title="PELÍCULAS",Moonfall
 http://clubtv.link/movies/moonfall
+#EXTINF:-1 tvg-logo="https://imgur.com/ebfuBGJ.png" group-title="PELÍCULAS",La Presa
+http://clubtv.link/movies/prey
 #EXTINF:-1 tvg-logo="https://imgur.com/gRkMjgU.png" group-title="PELÍCULAS",Interceptor
 http://clubtv.link/movies/interceptor
 #EXTINF:-1 tvg-logo="https://imgur.com/jIN3Pya.png" group-title="PELÍCULAS",Father Stu
 http://clubtv.link/movies/tsu
 #EXTINF:-1 tvg-logo="https://imgur.com/gBpg7RM.png" group-title="PELÍCULAS",There Are No Saints
 http://clubtv.link/movies/saints
-#EXTINF:-1 tvg-logo="https://imgur.com/N856aCD.png" group-title="PELÍCULAS",King
-http://clubtv.link/movies/king
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Batman LAT
 http://clubtv.link/2sep/token209/peliculas2.php?c=tmhhy77/tmhhy77.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="PELICULAS" , Black Widow
