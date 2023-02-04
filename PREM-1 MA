@@ -1154,9 +1154,11 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red HD - LIS 3
 
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png", MDA TV | VE
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ - LIS 1
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="ENTRETENIMIENTO",TELEAMAZONAS - LIS 1
@@ -1215,8 +1217,6 @@ http://clubtv.link/feb03/key1099/geomex3.php?c=268&f=.m3u8
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/-V-00YQE5U4k/AAAAAAAAAAI/AAAAAAAAAAA/RWMkolRg0Y0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",COCINA TV - LIS 3
 
-#EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png", MDA TV | VE
-https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO MR-1
 http://clubtv.link/feb03/key1099/geomex4.php?c=272&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO MR-2
