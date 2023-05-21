@@ -58,17 +58,17 @@ http://127.0.0.1
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD - GEO 3
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=113&f=.m3u8
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=113&f=.m3u8
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=113&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - LIS 1
 
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - LIS 2
-
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=447|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=451|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - LIS 3
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO - TV
 
 #EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO - TV 2
@@ -78,20 +78,20 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO - ANDR
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO
-http://clubtv.link/250423abr/top332/geomex4.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 2
-http://clubtv.link/250423abr/top332/geomex2.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 3
-http://clubtv.link/250423abr/top332/geomex3.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=102&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - LIS 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS S2 - LIS 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 2
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD - GEO 3
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO MR-1
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO MR-2
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - GEO AR
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - ANDR 4
+Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS SUR - ANDR 4
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - LIS 2
 
@@ -107,8 +107,8 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=102&f=.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - ANDR
 
-#EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) 1
-
+#EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 2
@@ -122,11 +122,11 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=102&f=.m3u8
 #EXTINF:-1 tvg-id="101690" tvg-name="TV4 Deportes" tvg-logo="https://lh3.googleusercontent.com/-BjGOcjKFRdI/XpZoDfSoLmI/AAAAAAAAx3k/gTlVrDhiO6gAf3yIV6JEk3fa6qFhcuoLQCK8BGAsYHg/s0/2020-04-14.png" group-title="MEXICO", TV4 3 (4.3) 
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2312&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2312&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2312&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA - MX
 
 #EXTINF:-1 logo="https://image.pngaaa.com/525/4407525-middle.png" group-title="MEXICO",CANAL 4 GUADALAJARA - LIS 3
@@ -138,15 +138,15 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=2312&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - GEO 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=105&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=105&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=105&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - LIS 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - LIS 2
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=465|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 7
+http://clubtv.link/1823m/key2589/android7.php?c=465|User-Agent=iD4diC8dVm5n8VJyb3FAKvDX4LYmGmTqSkWU4zNdBap2F54U9FyEirhdMZkPM8bZ3Yp5wcT49eyw6vp7G6mS9rrDbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7dXGmDz
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - TV
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1333859673888464901/_0-cae_U_400x400.jpg" group-title="MEXICO",CANAL 5 HD - MX
@@ -160,13 +160,13 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=105&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Multimedios_4.png/revision/latest/scale-to-width-down/250?cb=20210617030329&path-prefix=es" group-title="MEXICO",MULTIMEDIOS HD - GEO 3
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2305&f=.m3u8
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2305&f=.m3u8
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2305&f=.m3u8
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - LIS 2
 
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO MR-2
+
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO AR
+
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS - ANDR 4
+http://clubtv.link/1823m/key2589/android8.php?c=028
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS Laguna - FLUX
@@ -178,11 +178,11 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S1- GEO AR
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2352&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2352&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - GEO 3 AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2352&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS Guadalajara - FLUX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Multimedios_4.png/revision/latest/scale-to-width-down/250?cb=20210617030329&path-prefix=es" group-title="MEXICO",MULTIMEDIOS S1 - MX
@@ -190,24 +190,24 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - MX
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD - GEO
-http://clubtv.link/250423abr/top332/geomex4.php?c=107&f=.m3u8
+
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD - GEO 2
-http://clubtv.link/250423abr/top332/geomex2.php?c=107&f=.m3u8
+
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD - GEO 3
-http://clubtv.link/250423abr/top332/geomex3.php?c=107&f=.m3u8
+
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD (2) - GEO
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD (2) - GEO 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 HD (2) - GEO 3
 
-#EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=107&f=.m3u8
-#EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=107&f=.m3u8
+#EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - ANDR 4
+
+#EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - ANDR 4
+
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=107&f=.m3u8
-#EXTINF:-1 logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/C%C3%B3mo-ver-Azteca-7-en-vivo.jpg" group-title="MEXICO",AZTECA 7 - LIS 1
+
+#EXTINF:-1 logo="https://tv.futboladiccion.com/wp-content/uploads/2018/03/C%C3%B3mo-ver-Azteca-7-en-vivo.jpg" group-title="MEXICO",AZTECA 7 - LIS 2
 
 #EXTINF:-1 logo="https://destel.mx/wp-content/uploads/2016/04/418.png" group-title="MEXICO",AZTECA 7 - TV
 
@@ -220,11 +220,11 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=107&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 - ANDR
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 8 - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2307&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 8 - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2307&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 8 - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2307&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",TELEVISA MONTERREY - MX
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE HD - GEO 
@@ -234,13 +234,13 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=2307&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE HD - GEO 3
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=109&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=109&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=109&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - LIS 3
 
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - GEO MR-2
+
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - GEO AR
+
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - ANDR 6
+http://clubtv.link/1823m/key2589/android6.php?c=0621E7&f=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE - TV
 
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE HD - MX
@@ -258,13 +258,13 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxust
 #EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD - GEO 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=111&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=111&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=111&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - LIS 1
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO MR-2
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO AR
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 4
+http://clubtv.link/1823m/key2589/android6.php?c=C70155&f=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD - MX
 
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://lh3.googleusercontent.com/-q7jIr6lWtWE/XzguPkxejlI/AAAAAAAA4cE/vp0f0PtM-eIcHrNeOhL9rxByMIa-35FFQCK8BGAsYHg/s0/2020-08-15.jpg", Canal Catorce
@@ -282,15 +282,15 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD - GEO 3
 
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2298&f=.m3u8
+
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2298&f=.m3u8
+
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2298&f=.m3u8
-#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - LIS 1
 
-#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - TV
-
+#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=672|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - ANDR 7
+http://clubtv.link/1823m/key2589/android7.php?c=672|User-Agent=iD4diC8dVm5n8VJyb3FAKvDX4LYmGmTqSkWU4zNdBap2F54U9FyEirhdMZkPM8bZ3Yp5wcT49eyw6vp7G6mS9rrDbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7dXGmDz
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD - MX
 
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV - MX 
@@ -298,11 +298,11 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=2298&f=.m3u8
 #EXTINF:-1 logo="https://www.teoloyuquenses.mx/wp-content/uploads/2018/11/mvs.jpg" group-title="MEXICO",MVSTV - MX
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=276&f=.m3u8
+
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=276&f=.m3u8
+
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=276&f=.m3u8
+
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - LIS 2
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - LIS 3
@@ -312,25 +312,25 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=276&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - ANDR
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2316&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2316&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2316&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - LIS 3
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - MX
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - ANDR 6
+http://clubtv.link/1823m/key2589/android6.php?c=E0D2B2&f=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ - MX
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTkmtkcBKvUasd92oG42XN-gsSGgODxw3j5nFrmOg=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 26 AGUASCALIENTES - MX
 
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=44&f=.m3u8
+
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=44&f=.m3u8
+
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV - GEO AR
-http://clubtv.link250423abr/top332/geomex3.php?c=44&f=.m3u8
+
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV - LIS 3
 
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV - MX
@@ -346,21 +346,21 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo - FLUX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=2156&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=2156&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=2156&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC - Lis 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC - MX
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=401&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=401&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=401&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV- MX
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - GEO MR-1
@@ -1602,13 +1602,13 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-1
-http://clubtv.link/1823m/key2589/geomex4.php?c=199&f=.m3u8
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-2
-http://clubtv.link/1823m/key2589/geomex2.php?c=199&f=.m3u8
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO AR
-http://clubtv.link/1823m/key2589/geomex3.php?c=199&f=.m3u8
-#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S1 - LIS 0
 
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-2
+
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO AR
+
+#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=401|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S2 - LIS 0
 
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - MX
@@ -1618,13 +1618,13 @@ http://clubtv.link/1823m/key2589/geomex3.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 7 - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-1
-http://clubtv.link/1823m/key2589/geomex4.php?c=651&f=.m3u8
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-2
-http://clubtv.link/1823m/key2589/geomex2.php?c=651&f=.m3u8
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO AR
-http://clubtv.link/1823m/key2589/geomex3.php?c=651&f=.m3u8
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 2
 
+#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-2
+
+#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO AR
+
+#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - ANDR 8
+http://clubtv.link/1823m/key2589/android8.php?c=128
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE S1 - TV
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE S2 - TV
@@ -1949,8 +1949,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO AR
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - LIS 1
-
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 8
+http://clubtv.link/1823m/key2589/android8.php?c=028
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - MX
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR
@@ -2003,12 +2003,12 @@ http://clubtv.link/1823m/key2589/android5.php?c=0041|user-agent=Xskdnjoksdna34nm
 
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - GEO AR
 
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 4
-http://clubtv.link/1823m/key2589/android4.php?c=509|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 6
+http://clubtv.link/1823m/key2589/android6.php?c=0B98DF&f=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 5
 
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaClasico_logoFull-ver.png.3e6967b9a332a1f010a4a6ef26f28e8c.png" group-title="CINE",DE PELICULA CLASICO - ANDR 5
-http://clubtv.link/1823m/key2589/android5.php?c=0021|user-agent=Xskdnjoksdna34nm
+#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaClasico_logoFull-ver.png.3e6967b9a332a1f010a4a6ef26f28e8c.png" group-title="CINE",DE PELICULA CLASICO - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=509|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",TU CINE - GEO 1-2
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nf-7jm9GoKk/maxresdefault.jpg" group-title="C. Valenciana" tvg-name="Univers TV",NUESTRO CINE TV - LIS 3
@@ -2361,30 +2361,30 @@ https://vdo.panelstreaming.live:3363/live/radiotvpjlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - GEO
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - GANDR 2
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - LIS 1
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=658|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 7
+http://clubtv.link/1823m/key2589/android7.php?c=658|User-Agent=iD4diC8dVm5n8VJyb3FAKvDX4LYmGmTqSkWU4zNdBap2F54U9FyEirhdMZkPM8bZ3Yp5wcT49eyw6vp7G6mS9rrDbz4C7mT8D9eySTK2J97X7jERHigYUGuiguFTUGIYHGBVYU78Z347X7jajt77jajt7kw2nd2d8Tk2D7UHtrehTKVC7dXGmDz
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS 1
-http://clubtv.link/250423abr/top332/lista1.php?c=a02q
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS 2
-http://clubtv.link/250423abr/top332/lista2.php?c=a0a8&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=647|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=650|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - GEO 1 2 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - TV
 
-#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - LIS 1
-
-#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - LIS 2
-
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - LIS 1
-http://clubtv.link/250423abr/top332/lista1.php?c=a001
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - LIS 2
-http://clubtv.link/250423abr/top332/lista2.php?c=a0a5&f=.m3u8
+#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=652|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=655|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=621|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=625|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - GEO 1 2 3
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - TV
@@ -2405,10 +2405,10 @@ http://clubtv.link/250423abr/top332/lista2.php?c=a0a6&f=.m3u8
 
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - ANDR
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS 1
-http://clubtv.link/250423abr/top332/lista1.php?c=a02r
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS 2
-http://clubtv.link/250423abr/top332/lista2.php?c=a0a9&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=632|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=636|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - GEO 1 2 3
@@ -2417,10 +2417,10 @@ http://clubtv.link/250423abr/top332/lista2.php?c=a0a9&f=.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - ANDR
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS 1
-http://clubtv.link/250423abr/top332/lista1.php?c=a02p
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS 2
-http://clubtv.link/250423abr/top332/lista2.php?c=a0a7&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=637|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=640|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - TV
@@ -2429,10 +2429,10 @@ http://clubtv.link/250423abr/top332/lista2.php?c=a0a7&f=.m3u8
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - GEO
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - LIS 1
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=642|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 4
+http://clubtv.link/1823m/key2589/android4.php?c=645|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream - CL
 
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie - CL
@@ -2446,15 +2446,16 @@ https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - GEO 1-2
-http://clubtv.link/250423abr/top332/distro.php?c=top-cine-latam&f=.m3u8
+http://clubtv.link/1823m/key2589/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine Latam - TV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - GEO 1-2
-http://clubtv.link/250423abr/top332/distro.php?c=cine-real-latam&f=.m3u8
+http://clubtv.link/1823m/key2589/distro.php?c=cine-real-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - TV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - GEO 1-2
-http://clubtv.link/250423abr/top332/distro.php?c=cine-sureno&f=.m3u8
+http://clubtv.link/1823m/key2589+
+/distro.php?c=cine-sureno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - TV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine cl
@@ -2596,23 +2597,23 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", 40 Y 20
-http://clubtv.link/250423abr/top332/vix.php?c=340.frequency.stream/340&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=340.frequency.stream/340&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Vecinos
-http://clubtv.link/250423abr/top332/vix.php?c=314.frequency.stream/314&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=314.frequency.stream/314&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Una Familia de 10
-
+http://clubtv.link/1823m/key2589/vix.php?c=450.frequency.stream/450&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Adrenalina Sport
-http://clubtv.link/250423abr/top332/vix.php?c=393.frequency.stream/393&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=393.frequency.stream/393&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Afizzionados
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Alegrijes Y Rebujos
-http://clubtv.link/250423abr/top332/vix.php?c=319.frequency.stream/319&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=319.frequency.stream/319&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Amigas Y Rivales
-http://clubtv.link/250423abr/top332/vix.php?c=320.frequency.stream/320&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=320.frequency.stream/320&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Amores Verdaderos
-http://clubtv.link/250423abr/top332/vix.php?c=305.frequency.stream/305&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=305.frequency.stream/305&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Aqui Y Ahora
-http://clubtv.link/250423abr/top332/vix.php?c=306.frequency.stream/306&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=306.frequency.stream/306&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Atv+
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Bandamax
@@ -2624,31 +2625,31 @@ http://clubtv.link/250423abr/top332/vix.php?c=306.frequency.stream/306&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Canal 5 (Mx)
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine 1
-http://clubtv.link/250423abr/top332/vix.php?c=307.frequency.stream/307&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=307.frequency.stream/307&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine 2
-http://clubtv.link/250423abr/top332/vix.php?c=308.frequency.stream/308&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=308.frequency.stream/308&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine 3
-http://clubtv.link/250423abr/top332/vix.php?c=309.frequency.stream/309&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=309.frequency.stream/309&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine Club - Prendetv
-http://clubtv.link/250423abr/top332/vix.php?c=192.frequency.stream/192&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=192.frequency.stream/192&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine Del Ayer
-http://clubtv.link/250423abr/top332/vix.php?c=429.frequency.stream/429&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=429.frequency.stream/429&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Clase 406
-http://clubtv.link/250423abr/top332/vix.php?c=322.frequency.stream/322&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=322.frequency.stream/322&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cnn Colombia
-http://clubtv.link/250423abr/top332/vix.php?c=358.frequency.stream/358&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=358.frequency.stream/358&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Comedy Tv
-http://clubtv.link/250423abr/top332/vix.php?c=89.frequency.stream/89&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=89.frequency.stream/89&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Como Dice El Dicho
-http://clubtv.link/250423abr/top332/vix.php?c=341.frequency.stream/341&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=341.frequency.stream/341&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Corazón Salvaje
-http://clubtv.link/250423abr/top332/vix.php?c=325.frequency.stream/325&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=325.frequency.stream/325&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Crónicas
-http://clubtv.link/250423abr/top332/vix.php?c=315.frequency.stream/315&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=315.frequency.stream/315&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cuidado Con El Angel
-http://clubtv.link/250423abr/top332/vix.php?c=316.frequency.stream/316&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=316.frequency.stream/316&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Del Mercado Al Plato
-http://clubtv.link/250423abr/top332/vix.php?c=317.frequency.stream/317&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=317.frequency.stream/317&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Distrito Comedia
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Dpeliculas
@@ -2658,17 +2659,17 @@ http://clubtv.link/250423abr/top332/vix.php?c=317.frequency.stream/317&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Durmiendo Con Mi Jefe
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", El Privilegio De Mandar
-http://clubtv.link/250423abr/top332/vix.php?c=313.frequency.stream/313&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=313.frequency.stream/313&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Euronews
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Failarmy
-http://clubtv.link/250423abr/top332/vix.php?c=197.frequency.stream/197&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=197.frequency.stream/197&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Familia P. Luche
-http://clubtv.link/250423abr/top332/vix.php?c=311.frequency.stream/311&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=311.frequency.stream/311&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Foro Tv
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Fun Videos
-http://clubtv.link/250423abr/top332/vix.php?c=121.frequency.stream/121&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=121.frequency.stream/121&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Golden Edge
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Golden Edge Sd
@@ -2680,17 +2681,17 @@ http://clubtv.link/250423abr/top332/vix.php?c=121.frequency.stream/121&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Golden South Sd
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Héroes Del Norte
-http://clubtv.link/250423abr/top332/vix.php?c=323.frequency.stream/323&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=323.frequency.stream/323&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Juana La Virgen
-http://clubtv.link/250423abr/top332/vix.php?c=327.frequency.stream/327&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=327.frequency.stream/327&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Kids
-http://clubtv.link/250423abr/top332/vix.php?c=355.frequency.stream/355&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=355.frequency.stream/355&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  La Promesa
-http://clubtv.link/250423abr/top332/vix.php?c=343.frequency.stream/343&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=343.frequency.stream/343&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", La Rosa De Guadalupe
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", La Selecc10n
-http://clubtv.link/250423abr/top332/vix.php?c=345.frequency.stream/345&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=345.frequency.stream/345&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Las Estrellas
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Latidos Music
@@ -2698,35 +2699,35 @@ http://clubtv.link/250423abr/top332/vix.php?c=345.frequency.stream/345&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Level Up - Games
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Lo Mejor De La Liga Mx - Prendetv
-http://clubtv.link/250423abr/top332/vix.php?c=193.frequency.stream/193&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=193.frequency.stream/193&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Lo Que Diga El Corazon
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Local View
-http://clubtv.link/250423abr/top332/vix.php?c=402.frequency.stream/402&f=.m3u8 
+http://clubtv.link/1823m/key2589/vix.php?c=402.frequency.stream/402&f=.m3u8 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Local View 2
-http://clubtv.link/250423abr/top332/vix.php?c=403.frequency.stream/403&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=403.frequency.stream/403&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Love Nature
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", María Mercedes
-http://clubtv.link/250423abr/top332/vix.php?c=328.frequency.stream/328&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=328.frequency.stream/328&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Media +
-http://clubtv.link/250423abr/top332/vix.php?c=301.frequency.stream/301&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=301.frequency.stream/301&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Mi Gorda Bella
-http://clubtv.link/250423abr/top332/vix.php?c=334.frequency.stream/334&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=334.frequency.stream/334&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Muchachitas
-http://clubtv.link/250423abr/top332/vix.php?c=331.frequency.stream/331&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=331.frequency.stream/331&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Muchachitas Como Tu
-http://clubtv.link/250423abr/top332/vix.php?c=332.frequency.stream/332&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=332.frequency.stream/332&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", My Time Movies
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Noticias Univision 24/7
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas De Oro - Prendetv
-http://clubtv.link/250423abr/top332/vix.php?c=196.frequency.stream/196&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=196.frequency.stream/196&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas De Romance - Prendetv
-http://clubtv.link/250423abr/top332/vix.php?c=194.frequency.stream/194&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=194.frequency.stream/194&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas En Familia - Prendetv
-http://clubtv.link/250423abr/top332/vix.php?c=195.frequency.stream/195&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=195.frequency.stream/195&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Nuestra Vision
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", GOlden
@@ -2738,47 +2739,47 @@ http://clubtv.link/250423abr/top332/vix.php?c=195.frequency.stream/195&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", GOlden Plus
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Papa A Toda Madre
-http://clubtv.link/250423abr/top332/vix.php?c=336.frequency.stream/336&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=336.frequency.stream/336&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", People Are Awesome
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Que Bonito Amor
-http://clubtv.link/250423abr/top332/vix.php?c=329.frequency.stream/329&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=329.frequency.stream/329&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Rcn Mas
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Rebelde
-http://clubtv.link/250423abr/top332/vix.php?c=335.frequency.stream/335&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=335.frequency.stream/335&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Retro Peli
-http://clubtv.link/250423abr/top332/vix.php?c=304.frequency.stream/304&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=304.frequency.stream/304&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Revry-Lgbtq Tv
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Sortilegio
-http://clubtv.link/250423abr/top332/vix.php?c=337.frequency.stream/337&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=337.frequency.stream/337&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Soy Tu Dueña
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Soy Tu Dueña
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tele Musica
-http://clubtv.link/250423abr/top332/vix.php?c=418.frequency.stream/418&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=418.frequency.stream/418&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tele Musica+
-http://clubtv.link/250423abr/top332/vix.php?c=419.frequency.stream/419&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=419.frequency.stream/419&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Telehit
-http://clubtv.link/250423abr/top332/vix.php?c=417.frequency.stream/417&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=417.frequency.stream/417&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Teresa
-http://clubtv.link/250423abr/top332/vix.php?c=342.frequency.stream/342&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=342.frequency.stream/342&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Teresa
-http://clubtv.link/250423abr/top332/vix.php?c=324.frequency.stream/324&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=324.frequency.stream/324&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", The Weather Channel(Es)
-http://clubtv.link/250423abr/top332/vix.php?c=431.frequency.stream/431&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=431.frequency.stream/431&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", The Weather Channel(Es) Hd
-http://clubtv.link/250423abr/top332/vix.php?c=453.frequency.stream/453&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=453.frequency.stream/453&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tln Novelas
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tn23
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tres Veces Ana
-http://clubtv.link/250423abr/top332/vix.php?c=321.frequency.stream/321&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=321.frequency.stream/321&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Triunfo Del Amor
-http://clubtv.link/250423abr/top332/vix.php?c=338.frequency.stream/338&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=338.frequency.stream/338&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tudn
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tudn
@@ -2814,37 +2815,37 @@ http://clubtv.link/250423abr/top332/vix.php?c=338.frequency.stream/338&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tudn
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Tv Venta
-http://clubtv.link/250423abr/top332/vix.php?c=352.frequency.stream/352&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=352.frequency.stream/352&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Unicable
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Unknown 101
-http://clubtv.link/250423abr/top332/vix.php?c=330.frequency.stream/330&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=330.frequency.stream/330&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Unknown 262
-http://clubtv.link/250423abr/top332/vix.php?c=446.frequency.stream/446&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=446.frequency.stream/446&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Vevo
-http://clubtv.link/250423abr/top332/vix.php?c=389.frequency.stream/389&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=389.frequency.stream/389&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",  Vevo
-http://clubtv.link/250423abr/top332/vix.php?c=388.frequency.stream/388&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=388.frequency.stream/388&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Videos Chistosos
-http://clubtv.link/250423abr/top332/vix.php?c=46.frequency.stream/46&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=46.frequency.stream/46&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Videos Chistosos 2
-http://clubtv.link/250423abr/top332/vix.php?c=49.frequency.stream/49&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=49.frequency.stream/49&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Vivo Play
 
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine 
-http://clubtv.link/250423abr/top332/vix.php?c=449.frequency.stream/449&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=449.frequency.stream/449&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine Sd
-http://clubtv.link/250423abr/top332/vix.php?c=450.frequency.stream/450&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=450.frequency.stream/450&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Cine Sd
-http://clubtv.link/250423abr/top332/vix.php?c=451.frequency.stream/451&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=451.frequency.stream/451&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Deportes
-http://clubtv.link/250423abr/top332/vix.php?c=452.frequency.stream/452&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=452.frequency.stream/452&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas
-http://clubtv.link/250423abr/top332/vix.php?c=445.frequency.stream/445&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=445.frequency.stream/445&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas Hd
-http://clubtv.link/250423abr/top332/vix.php?c=448.frequency.stream/448&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=448.frequency.stream/448&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Novelas Sd
-http://clubtv.link/250423abr/top332/vix.php?c=447.frequency.stream/447&f=.m3u8
+http://clubtv.link/1823m/key2589/vix.php?c=447.frequency.stream/447&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Nosotros Los Guapos
 
 
