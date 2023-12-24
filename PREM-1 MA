@@ -305,7 +305,7 @@ http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/111OnceTvMex
 
 #EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD - MX
 
-#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://lh3.googleusercontent.com/-q7jIr6lWtWE/XzguPkxejlI/AAAAAAAA4cE/vp0f0PtM-eIcHrNeOhL9rxByMIa-35FFQCK8BGAsYHg/s0/2020-08-15.jpg", Canal Catorce - ANDR 8
+#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - ANDR 8
 http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfI0M2b.png" group-title="MEXICO",Capital 21
 
@@ -529,6 +529,8 @@ https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://plataformas.news/online/nota_clan-se-incorpora-a-dishlatino.gif" group-title="SERIES Y CINE",CLAN (ES) - ESP 2
+http://clubtv.link/DI2112/key4513/esp2.php?c=80696
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO MR-1
 
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO MR-2
@@ -665,7 +667,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
@@ -2205,8 +2206,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO MR-1
-
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
+http://clubtv.link/DI2112/key4513/esp2.php?c=124320
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
@@ -2235,26 +2236,26 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 logo="https://seeklogo.com/images/T/tbs-tv-channel-logo-6D967A4842-seeklogo.com.png" group-title="CINE",TBS - MX
 
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a0a9
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a06p
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0007|user-agent=FFFFF
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a0a9
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=295&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=295&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=492&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 3
+http://clubtv.link/DI2112/key4513/android3.php?c=a02c&token=CanalesGratisEnTecnotv.club
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - ANDR
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA OPC 1 - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=35466|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA OPC 2 - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=89724|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA - ANDR 4
-http://clubtv.link/se0111/key7132/android4.php?c=389|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA - ANDR 5
-http://clubtv.link/se0111/key7132/android5.php?c=389|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA S1 - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=21&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA S1 - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=21&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA S2 - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=389&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA S2 - ANDR 5
+http://clubtv.link/DI2112/key4513/android5.php?c=389&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA - ANDR 7
-http://clubtv.link/se0111/key7132/android7.php?c=389|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA - ANDR 8
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA - ANDR 9
@@ -2267,14 +2268,14 @@ http://clubtv.link/se0111/key7132/android7.php?c=389|user-agent=LKSDJ87F943532Q3
 
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - GEO AR
 
-#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + OPC 1 - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=19|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
-#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + OPC 2 - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=89725|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
+#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA PLUS - ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=512&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA PLUS HD- ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=509&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0009|user-agent=FFFFF
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="CINE",DE PELICULA CLASICO - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0021|user-agent=FFFFF
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/ElSrRysXYAE3Tf7.jpg" group-title="CINE",CINE NOSTALGIA - ANDR 8
 
 #EXTINF:-1 logo="https://asisucede.com.mx/wp-content/uploads/2022/11/MX-Nuestro-Cine.jpg" group-title="CINE",MX NUESTRO CINE - ANDR 9
