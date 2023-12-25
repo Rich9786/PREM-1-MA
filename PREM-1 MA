@@ -28,16 +28,15 @@ https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a02r&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a02r&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a02y&f=.m3u8&token=TvGratisEnTecnotv.club
+https://clubtv.link/DI2112/key4513/lista1.php?c=a02r&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España - TDT
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a04g&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a04g&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a05q&f=.m3u8&token=TvGratisEnTecnotv.club
-
+http://clubtv.link/DI2112/key4513/lista2.php?c=a05q&f=.m3u8&token=GratiTvEnTecnotv.club
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE | US
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
@@ -811,13 +810,13 @@ http://clubtv.link/DI2112/key4513/android6.php?c=642&token=CanalesGratisEnTecnot
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 HD - ANDR 3
 http://clubtv.link/DI2112/key4513/android3.php?c=a04x&token=CanalesGratisEnTecnotv.club
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a042&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a042&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a05b&f=.m3u8&token=TvGratisEnTecnotv.club
+http://clubtv.link/DI2112/key4513/lista2.php?c=a05b&f=.m3u8&token=GratiTvEnTecnotv.club
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 3
-https://clubtv.link/DI2112/key4513/lista3.php?c=a00v&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista3.php?c=a00v&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 4
-http://clubtv.link/DI2112/key4513/lista4.php?c=a036&token=CanalesGratisEnTecnotv.club&f=.m3u8
+http://clubtv.link/DI2112/key4513/lista4.php?c=a036&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - Lis 5
 
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - ANDR
@@ -931,11 +930,11 @@ http://clubtv.link/DI2112/key4513/distro.php?c=saber-mas&f=.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	- LIS 3
 https://clubtv.link/DI2112/key4513/runtime.php?c=4827
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a044&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a044&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a05d&f=.m3u8&token=TvGratisEnTecnotv.club
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 4
-http://clubtv.link/DI2112/key4513/lista4.php?c=a32y&token=CanalesGratisEnTecnotv.club&f=.m3u8
+http://clubtv.link/DI2112/key4513/lista2.php?c=a05d&f=.m3u8&token=GratiTvEnTecnotv.club
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - LIS 4
+http://clubtv.link/DI2112/key4513/lista4.php?c=a32y&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - ANDR 2
 
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
@@ -959,7 +958,7 @@ http://clubtv.link/DI2112/key4513/lista5.php?c=a09o&token=CanalesGratisEnTecnotv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - LIS 5
-http://clubtv.link/DI2112/key4513/lista5.php?c=ch32&token=CanalesGratisEnTecnotv.club&f=.m3u8
+http://clubtv.link/DI2112/key4513/lista5.php?c=ch32&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-9F_oWOfhMf4/XtVPXIG-zuI/AAAAAAAAK7s/SU0-Jh_uAHs1YKZRtNG93QOrrIsBSZXgwCK4BGAsYHg/w640-h370/WIPR%2B-%2BMAYO%2B2020.jpeg" group-title="MUNDO Y CULTURA",WIPR P - LIS 0
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-9F_oWOfhMf4/XtVPXIG-zuI/AAAAAAAAK7s/SU0-Jh_uAHs1YKZRtNG93QOrrIsBSZXgwCK4BGAsYHg/w640-h370/WIPR%2B-%2BMAYO%2B2020.jpeg" group-title="MUNDO Y CULTURA",WIPR I - LIS 0
@@ -1837,9 +1836,9 @@ http://clubtv.link/DI2112/key4513/android7.php?c=27&token=CanalesGratisEnTecnotv
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a06t&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a06t&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 5
-http://clubtv.link/DI2112/key4513/lista5.php?c=a0a4&token=CanalesGratisEnTecnotv.club&f=.m3u8
+http://clubtv.link/DI2112/key4513/lista5.php?c=a0a4&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - ANDR 9
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP 2 
@@ -1895,9 +1894,9 @@ http://clubtv.link/DI2112/key4513/android2.php?c=595&token=CanalesGratisEnTecnot
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 3
 http://clubtv.link/DI2112/key4513/android3.php?c=a048&token=CanalesGratisEnTecnotv.club
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a05c&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a05c&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a070&f=.m3u8&token=TvGratisEnTecnotv.club
+http://clubtv.link/DI2112/key4513/lista2.php?c=a070&f=.m3u8&token=GratiTvEnTecnotv.club
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 9
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 0
@@ -2009,13 +2008,13 @@ http://clubtv.link/DI2112/key4513/android2.php?c=843&token=CanalesGratisEnTecnot
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - ANDR 2
 http://clubtv.link/DI2112/key4513/android2.php?c=838&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a05s&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a05s&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD O - LIS 1
-https://clubtv.link/DI2112/key4513/lista1.php?c=a05t&token=TvGratisEnTecnotv.club&f=.m3u8
+https://clubtv.link/DI2112/key4513/lista1.php?c=a05t&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a09a&f=.m3u8&token=TvGratisEnTecnotv.club
-#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HERO HD O - LIS 2
-http://clubtv.link/DI2112/key4513/lista2.php?c=a09b&f=.m3u8&token=TvGratisEnTecnotv.club
+http://clubtv.link/DI2112/key4513/lista2.php?c=a09a&f=.m3u8&token=GratiTvEnTecnotv.club
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD O - LIS 2
+http://clubtv.link/DI2112/key4513/lista2.php?c=a09b&f=.m3u8&token=GratiTvEnTecnotv.club
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE OESTE HD - LIS 0
 
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/usa-network-logo.png" group-title="SERIES Y CINE",USA - ANDR 0
@@ -2292,10 +2291,12 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png", Eva Retro | CL
 
-#EXTINF:-1 logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="CINE",CLARO CINEMA - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=14|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
+#EXTINF:-1 logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="CINE",CLARO CINEMA - ANDR 1
+http://clubtv.link/DI2112/key4513/android1.php?c=4337&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="CINE",CLARO CINEMA - LIS 1
+https://clubtv.link/DI2112/key4513/lista1.php?c=a05b&token=GratiTvEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="CINE",CLARO CINEMA - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a05b
+
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - GEO MR-1
 
 #EXTINF:-1 logo="https://www.televisiongratishd.com/img/azcinema.png" group-title="CINE",AZ CINEMA - GEO MR-2
@@ -5410,3 +5411,4 @@ http://ia801507.us.archive.org/2/items/R3gR3S04LFvTvR01/R3gR3S0%204L%20FvTvR0%20
 http://ia801507.us.archive.org/2/items/wayne_201812/wayne.mp4
 #EXTINF:-1 group-title="PELÍCULAS" ,Y DONDE ESTAN LAS RUBIAS (OPC2)
 http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
+
