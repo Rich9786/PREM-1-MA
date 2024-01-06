@@ -70,7 +70,7 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro - FLUX
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i4N1CVp.png" group-title="MEXICO",Canal 10 Chiapas - FLUX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="MEXICO",Canal 10 Chiapas - FLUX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV 
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?TecnoPlaylist
@@ -100,9 +100,9 @@ http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.m
 
 
 
-#EXTINF:-1 tvg-id="134238" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+#EXTINF:-1 tvg-id="134238" tvg-name="Paka Paka" tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54fedb71a1c1d__838x390.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="134293" tvg-name="Pequeradio TV" tvg-logo="https://lh3.googleusercontent.com/-5wlAQ6nLfW4/YF5I0iHgH3I/AAAAAAABA90/HsqEimRfhGARstgd044vc0ZkynUYntbTACK8BGAsYHg/s512/2021-03-26.jpg", Pequeradio TV S1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles", Pequeradio TV S1
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV S2
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
