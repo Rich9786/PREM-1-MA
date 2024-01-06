@@ -16,33 +16,34 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1944.ts
 
 
 #EXTINF:-1 tvg-id="867" tvg-name="Victoria TV Bakersfield" tvg-logo="https://lh3.googleusercontent.com/-k7hK0o_wXgY/YKQvc2x_X4I/AAAAAAABCZY/5HJvUFzI7VQ4w2u3AIvcKUCnxJ_N6RxOQCK8BGAsYHg/s512/2021-05-18.jpg", Victoria TV Bakersfield | US
-https://videohd.live:19360/8062/8062.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="928" tvg-name="MovieFE" tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png", MovieFE | VE 
-https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png", La Fe Mueve Montanas | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png", Tele Familia | CO
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png", Telezion | CL
-https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 1
-https://clubtv.link/0123en/key4513/lista1.php?c=a02r&token=TECNOTVCLUB&f=.m3u8
+http://clubtv.link/0123en/key4513/lista1.php?c=a02r&token=TECNOTVGENERADORPLUS&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 2
-https://clubtv.link/0123en/key4513/lista1.php?c=a02r&token=TECNOTVCLUB&f=.m3u8
+http://clubtv.link/0123en/key4513/lista2.php?c=a02y&f=.m3u8&token=TECNOTVGENERADORPLUS
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España - TDT
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-https://clubtv.link/0123en/key4513/lista1.php?c=a04g&token=TECNOTVCLUB&f=.m3u8
+http://clubtv.link/0123en/key4513/lista1.php?c=a04g&token=TECNOTVGENERADORPLUS&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 2
 http://clubtv.link/0123en/key4513/lista2.php?c=a05q&f=.m3u8&token=TECNOTVCLUB
+http://clubtv.link/0123en/key4513/lista2.php?c=a05q&f=.m3u8&token=TECNOTVGENERADORPLUS
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE | US
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 5
-http://clubtv.link/0123en/key4513/lista5.php?c=067&token=TECNOTVCLUB&f=.m3u8
+http://clubtv.link/0123en/key4513/lista5.php?c=067&token=TECNOTVGENERADORPLUS&f=.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png", Cristiana TV | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
