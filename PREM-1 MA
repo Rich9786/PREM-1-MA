@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",20/1/2024 - ANDR-LIS-ESP-PEL - SD-HD
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",21/1/2024 - ANDR-LIS-ESP-PEL - SD-HD
 http://tecnotv.club/https:/2001en/key4513/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
@@ -273,9 +273,24 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
 
 
 
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE - TV2 SR REGIO
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION - TV4 SR REGIO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - TV2 SR REGIO
+http://190.149.66.90:4000/play/a00a/index.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV2 SR REGIO
+http://190.149.66.90:4000/play/a00j/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION - TV4 SR REGIO
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a054/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a081/index.m3u8
+#EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA TV - CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - CL
@@ -284,6 +299,22 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png", MDA TV | VE
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV4 SR REGIO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV2 SR REGIO
+http://190.149.66.90:4000/play/a02d/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV2 SR REGIO
+http://167.250.222.35:16000/play/a05c/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV2 SR REGIO
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD OPC 1 - TV2 SR REGIO 
+http://190.149.66.90:4000/play/a03q/index.m3u8http://190.149.66.90:4000/play/a03x/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a095/index.m3u8http://167.250.222.35:16000/play/a09e/index.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a03x/index.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - ANDR 5-7
 
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - TV
@@ -294,6 +325,12 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 http://clubtv.link/2001en/key4513/distro.php?c=juntos
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos TV - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - TV4 SR REGIO
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a03p/index.m3u8
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a097/index.m3u8
 
 
 
@@ -1870,8 +1907,8 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",6/1/2024 - CINE
-http://clubtv.link/en1001/key4513/peliculas.php?id=1819
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",21/1/2024 - CINE
+http://clubtv.link/2001en/key4513/peliculas.php?id=1819
 
 
 
@@ -2554,8 +2591,8 @@ http://ia801504.us.archive.org/33/items/YDELR/YDELR.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",6/1/2024 - TEC CINE
-http://clubtv.link/en1001/key4513/peliculas.php?id=1819
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",21/1/2024 - TEC CINE
+http://clubtv.link/2001en/key4513/peliculas.php?id=1819
 
 
 
