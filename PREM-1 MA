@@ -200,14 +200,6 @@ http://clubtv.link/2801En/key4513/esp.php?c=15142
 http://clubtv.link/2801En/key4513/esp2.php?c=15142
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP 3
 http://clubtv.link/2801En/key4513/esp3.php?c=14286
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 S1 - ESP
-http://clubtv.link/2801En/key4513/esp.php?c=80663
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 S1 - ESP 2
-http://clubtv.link/2801En/key4513/esp2.php?c=80663
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 S2 - ESP
-http://clubtv.link/2801En/key4513/esp.php?c=80626
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 S2 - ESP 2
-http://clubtv.link/2801En/key4513/esp2.php?c=80626
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD - TV2 SR REGIO
@@ -619,6 +611,14 @@ http://clubtv.link/2801En/key4513/esp2.php?c=80625
 http://clubtv.link/2801En/key4513/esp.php?c=80696
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/1200px-Clan_TVE_logo.svg.png" group-title="MUNDO Y CULTURA",CLAN - ESP 2
 http://clubtv.link/2801En/key4513/esp2.php?c=80696
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 S1 - ESP
+http://clubtv.link/2801En/key4513/esp.php?c=80663
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 S1 - ESP 2
+http://clubtv.link/2801En/key4513/esp2.php?c=80663
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 S2 - ESP
+http://clubtv.link/2801En/key4513/esp.php?c=80626
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 S2 - ESP 2
+http://clubtv.link/2801En/key4513/esp2.php?c=80626
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 1 S1 - ESP
 http://clubtv.link/2801En/key4513/esp.php?c=80658
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 2 S1 - ESP 2
