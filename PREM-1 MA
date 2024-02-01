@@ -209,6 +209,14 @@ http://clubtv.link/Fe0102/key4513/android5.php?c=33&token=TecnotvGenerador2024|u
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://i.pinimg.com/originals/d0/52/aa/d052aa6b194ac2d48eb1739d4f710ed0.jpg" group-title="24/7", Vecinos - ANDR 4
+http://clubtv.link/Fe0102/key4513/android4.php?c=50&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 4
+http://clubtv.link/Fe0102/key4513/android4.php?c=91&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - ANDR 4
+http://clubtv.link/Fe0102/key4513/android4.php?c=416&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - ANDR 4
+http://clubtv.link/Fe0102/key4513/android4.php?c=417&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
@@ -911,6 +919,8 @@ http://clubtv.link/Fe0102/key4513/android2.php?c=613&token=TecnotvGenerador2024|
 http://190.149.66.90:4000/play/a04j/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a07a/index.m3u8
+#EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 4
+http://clubtv.link/Fe0102/key4513/android4.php?c=43&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD OPC 1 - TV2 SR REGIO
