@@ -28,21 +28,21 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 1
-http://clubtv.link/Fe0102/key4513/lista1.php?c=a02r&token=TecnotvGeneradorCLUB&f=.m3u8
+http://clubtv.link/Fe0102/key4513/lista1.php?c=a02r&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 2
-http://clubtv.link/Fe0102/key4513/lista2.php?c=a02y&f=.m3u8&token=TecnotvGeneradorCLUB
+http://clubtv.link/Fe0102/key4513/lista2.php?c=a02y&f=.m3u8&token=TecnotvGenerador
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España - TDT
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-http://clubtv.link/Fe0102/key4513/lista1.php?c=a04g&token=TecnotvGeneradorCLUB&f=.m3u8
+http://clubtv.link/Fe0102/key4513/lista1.php?c=a04g&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 2
-http://clubtv.link/Fe0102/key4513/lista2.php?c=a05q&f=.m3u8&token=TecnotvGeneradorCLUB
+http://clubtv.link/Fe0102/key4513/lista2.php?c=a05q&f=.m3u8&token=TecnotvGenerador
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE | US
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 5
-http://clubtv.link/Fe0102/key4513/lista5.php?c=067&token=TecnotvGeneradorCLUB&f=.m3u8
+http://clubtv.link/Fe0102/key4513/lista5.php?c=067&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6c/be/5e/6cbe5ea5-5f10-6d32-5a02-ac0cca8018de/source/512x512bb.jpg", Cristiana TV | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
@@ -2392,7 +2392,7 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",1/2/2024 - CINE
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",6/1/2024 - CINE
 http://clubtv.link/Fe0102/key4513/peliculas.php?id=1819
 
 
