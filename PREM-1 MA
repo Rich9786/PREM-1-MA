@@ -557,7 +557,7 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ESP
 http://clubtv.link/F0502b/key4513/esp.php?c=90938
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 6
-http://clubtv.link/F0502b/key4513/lista6.php?c=351&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/F0502b/key4513/lista6.php?c=351&token=TecnotvGeneradorCLUB2024&f=.m3u8
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 1 - ESP 
 http://clubtv.link/F0502b/key4513/esp.php?c=50460
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 2 - ESP 
@@ -579,9 +579,9 @@ http://clubtv.link/F0502b/key4513/esp.php?c=2210
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 1
-http://clubtv.link/F0502b/key4513/lista1.php?c=a06t&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/F0502b/key4513/lista1.php?c=a06t&token=TecnotvGeneradorCLUB2024&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 5
-http://clubtv.link/F0502b/key4513/lista5.php?c=128&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/F0502b/key4513/lista5.php?c=128&token=TecnotvGeneradorCLUB2024&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - ANDR 9
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP 2 
@@ -1098,7 +1098,7 @@ http://clubtv.link/F0502b/key4513/android0.php?c=38451&token=TecnotvGenerador202
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature S2 - ANDR 2
 http://clubtv.link/F0502b/key4513/android2.php?c=180&token=TecnotvGenerador2024|user-agent=Mozilla/5.0
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature S2 - LIS 6
-http://clubtv.link/F0502b/key4513/lista6.php?c=517&token=TecnotvGenerador&f=.m3u8
+http://clubtv.link/F0502b/key4513/lista6.php?c=517&token=TecnotvGeneradorCLUB2024&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature S2 - ANDR 5
 http://clubtv.link/F0502b/key4513/android5.php?c=124&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
