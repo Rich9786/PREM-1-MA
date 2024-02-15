@@ -44,9 +44,9 @@ http://190.149.66.90:4000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
 http://167.250.222.35:16000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-http://clubtv.link/F1302o/key4513/lista1.php?c=a04g&token=TecnotvGeneradorCLUB2024&f=.m3u8
+http://clubtv.link/F1302o/key4513/lista1.php?c=a04g&token=TecnotvCLUBTV&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 2
-http://clubtv.link/F1302o/key4513/lista2.php?c=a05q&f=.m3u8&token=TecnotvGeneradorCLUB2024
+http://clubtv.link/F1302o/key4513/lista2.php?c=a05q&f=.m3u8&token=TecnotvCLUBTV
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE | US
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
