@@ -27,10 +27,10 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 1
-http://clubtv.link/F1302o/key4513/lista1.php?c=a02r&token=TecnotvGeneradorCLUB2024&f=.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 2
-http://clubtv.link/F1302o/key4513/lista2.php?c=a02y&f=.m3u8&token=TecnotvGeneradorCLUB2024
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV2 SR REGIO
+http://190.149.66.90:4000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV4 SR REGIO
+http://45.166.92.22:58001/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España - TDT
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
