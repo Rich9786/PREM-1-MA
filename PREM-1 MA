@@ -25,16 +25,24 @@ https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png", Telezion | CL
 
-#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria OPC 1 - TV2 SR REGIO
 http://190.149.66.90:4000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV2 SR REGIO
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN OPC 1 - TV2 SR REGIO
 http://190.149.66.90:4000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV4 SR REGIO
 http://45.166.92.22:58001/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España - TDT
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
+http://190.149.66.90:4000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
+http://167.250.222.35:16000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
 http://clubtv.link/F1302o/key4513/lista1.php?c=a04g&token=TecnotvGeneradorCLUB2024&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 2
