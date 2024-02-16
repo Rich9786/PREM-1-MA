@@ -1159,11 +1159,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 http://clubtv.link/F1302o/key4513/android0.php?c=38481&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | TOP CL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
 http://clubtv.link/F1302o/key4513/android0.php?c=49777&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 2 - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 2 - ANDR 0
 http://clubtv.link/F1302o/key4513/android0.php?c=11868&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
 http://clubtv.link/F1302o/key4513/android0.php?c=49778&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
@@ -2018,6 +2018,8 @@ http://190.149.66.90:4000/play/a019/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a02w/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV3 SR REGIO
+http://45.166.92.22:58001/play/a057/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV4 SR REGIO
 http://45.166.92.22:58001/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TeleSUR_2014-1.png/revision/latest?cb=20210308032444&path-prefix=es", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
