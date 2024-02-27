@@ -944,8 +944,8 @@ http://167.250.222.35:16000/play/a07b/index.m3u8
 http://clubtv.link/2502Fb/key4513/android0.php?c=37960&token=TecnotvCLUB|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA OPC 2 - ANDR 0
 http://clubtv.link/2502Fb/key4513/android0.php?c=3285&token=TecnotvCLUB|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA - LIS 4
-http://clubtv.link/2502Fb/key4513/lista4.php?c=a33Y&token=TECNOTVCLUBGENERADOR&f=.m3u8
+#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA - LIS 3
+http://clubtv.link/2502Fb/key4513/lista3.php?c=a084&token=TECNOTVCLUBGENERADOR&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="CINE",DE PELICULA PLUS OPC 1 - ANDR 0
 http://clubtv.link/2502Fb/key4513/android0.php?c=3143&token=TecnotvCLUB|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="CINE",DE PELICULA PLUS - ANDR 5
