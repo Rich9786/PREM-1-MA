@@ -69,7 +69,7 @@ http://127.0.0.1
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/07d4879a-afde-40a6-bcd7-e51a62370dd3" group-title="MEXICO",AZTECA UNO - TV4 SR REGIO
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",AZTECA UNO - TV4 SR REGIO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
