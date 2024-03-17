@@ -847,7 +847,7 @@ http://167.250.222.35:16000/play/a09b/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - ANDR 0
 http://clubtv.link/MR1603/key4513/android0.php?c=764&token=TecnotvGeneradorClub|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - ANDR 10
-http://clubtv.link/MR1603/key4513/android10.php?c=189&token=TECNOTVGENERADORTV
+http://clubtv.link/MR1603/key4513/android10.php?c=0098&token=TecnotvGeneradorClub|user-agent=CCCCC
 #EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD OPC 1 - TV2 SR REGIO
@@ -858,6 +858,8 @@ http://167.250.222.35:16000/play/a04f/index.m3u8
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV2 SR REGIO
 http://167.250.222.35:16000/play/a04c/index.m3u8
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - ANDR 0
+http://clubtv.link/MR1603/key4513/android0.php?c=417&token=TecnotvGeneradorClub|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD OPC 1 - TV2 SR REGIO
