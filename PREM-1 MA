@@ -44,15 +44,15 @@ http://190.149.66.90:4000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
 http://167.250.222.35:16000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-http://clubtv.link/Mp2003/key4513/lista1.php?c=a04g&token=TECNOTVCLUBGENERADORPLUS&f=.m3u8
+http://clubtv.link/Mp2003/key4513/lista1.php?c=a04g&token=TecnotvGeneradorPlusTv24&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 5
-http://clubtv.link/Mp2003/key4513/lista5.php?c=124&token=TECNOTVCLUBGENERADORPLUS&f=.m3u8
+http://clubtv.link/Mp2003/key4513/lista5.php?c=124&token=TecnotvGeneradorPlusTv24&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE | US
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 5
-http://clubtv.link/Mp2003/key4513/lista5.php?c=067&token=TECNOTVCLUBGENERADORPLUS&f=.m3u8
+http://clubtv.link/Mp2003/key4513/lista5.php?c=067&token=TecnotvGeneradorPlusTv24&f=.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6c/be/5e/6cbe5ea5-5f10-6d32-5a02-ac0cca8018de/source/512x512bb.jpg", Cristiana TV | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
