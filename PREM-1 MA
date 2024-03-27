@@ -758,10 +758,10 @@ http://clubtv.link/MZ2403/key4513/esp2.php?c=80677
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=2213
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP
-
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=2217
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ANDR 0
+http://clubtv.link/MZ2403/key4513/android0.php?c=697&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP 2
@@ -830,10 +830,8 @@ http://clubtv.link/MZ2403/key4513/esp2.php?c=80632
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES SERIES Y CINE ====" tvg-logo="https://images.reblog.hu/uploads/blogs/51442/avatar20200331013350.png" group-title="SERIES Y CINE",== SERIES Y CINE ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
-
 
 
 
@@ -934,10 +932,10 @@ http://190.149.66.90:4000/play/a050/index.m3u8
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S1 - ANDR 0 
 http://clubtv.link/MZ2403/key4513/android0.php?c=403&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 2
-http://clubtv.link/MZ2403/key4513/esp2.php?c=2218
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 10
 http://clubtv.link/MZ2403/key4513/android10.php?c=0028&token=TecnotvGeneradorPlusTv24|user-agent=CCCCC
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 2
+http://clubtv.link/MZ2403/key4513/android2.php?c=121&token=TecnotvGeneradorPlusTv24|user-agent=Mozilla/5.0
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ANDR 9
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - LIS 0
@@ -966,10 +964,10 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP
-http://clubtv.link/MZ2403/key4513/esp.php?c=124321
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - LIS 5
+http://clubtv.link/MZ2403/key4513/lista5.php?c=028&token=TECNOTVCLUBGENERADOR&f=.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
-http://clubtv.link/MZ2403/key4513/esp2.php?c=124321
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 9
@@ -1046,7 +1044,7 @@ http://clubtv.link/MZ2403/key4513/android7.php?c=19907&token=TecnotvGeneradorPlu
 http://clubtv.link/MZ2403/key4513/android0.php?c=613&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 2
 http://clubtv.link/MZ2403/key4513/android2.php?c=171&token=TecnotvGeneradorPlusTv24|user-agent=Mozilla/5.0
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER OPC 1 - TV2 SR REGIO
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - TV2 SR REGIO
 http://190.149.66.90:4000/play/a04j/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER OPC 2 - TV2 SR REGIO
 
@@ -1142,6 +1140,26 @@ http://45.160.15.130:2909/play/112
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM HD - 
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=835&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz Cinema - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=833&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=836&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="https://ia601000.us.archive.org/18/items/StarzEncoreClassic/starz%20encore%20classic.png" group-title="Peliculas",Starz Classic - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=837&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/633/195/707/tv-channel-icons-pack-starz-edge-color-png-icon-thumbnail.jpg" group-title="Peliculas",Starz Edge - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=838&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/0499/brand.gif?itok=o0LHP6Od" group-title="Peliculas",Starz Encore Western - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=841&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/277-2770658_transparent-starz-png-starz-encore-suspense-logo-png.png" group-title="Peliculas",Starz Encore Suspense - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=840&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+
+#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | TOP CL
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - TOP CL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 0
 http://clubtv.link/MZ2403/key4513/android0.php?c=658&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 2
@@ -1225,10 +1243,6 @@ http://clubtv.link/MZ2403/key4513/android0.php?c=642&token=TecnotvGeneradorPlusT
 http://clubtv.link/MZ2403/key4513/android2.php?c=180&token=TecnotvGeneradorPlusTv24|user-agent=Mozilla/5.0
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
 http://clubtv.link/MZ2403/key4513/android5.php?c=124&token=TecnotvGeneradorPlusTv24|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | TOP CL
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - TOP CL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
