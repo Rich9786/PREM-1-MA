@@ -294,10 +294,18 @@ http://190.149.66.90:4000/play/a03w/index.m3u8
 http://clubtv.link/MZ2403/key4513/android4.php?c=406&token=TecnotvGeneradorPlusTv24|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 5
 http://clubtv.link/MZ2403/key4513/android5.php?c=406&token=TecnotvGeneradorPlusTv24|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV4 SR REGIO
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S1 - ANDR 1
+http://clubtv.link/MZ2403/key4513/android1.php?c=278&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - ANDR 2
+http://clubtv.link/MZ2403/key4513/android2.php?c=152&token=TecnotvGeneradorPlusTv24|user-agent=Mozilla/5.0
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - ANDR 3
+http://clubtv.link/MZ2403/key4513/android4.php?c=119&token=TecnotvGeneradorPlusTv24|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1 logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV2 SR REGIO
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - TV2 SR REGIO
 http://190.149.66.90:4000/play/a051/index.m3u8
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - ANDR 3
+http://clubtv.link/MZ2403/key4513/android3.php?c=a01n&token=TecnotvGeneradorPlusTv24
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV2 SR REGIO
@@ -309,7 +317,7 @@ http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature - ANDR 1 
 http://clubtv.link/MZ2403/key4513/android1.php?c=218&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP
-http://clubtv.link/MZ2403/key4513/esp.php?c=2567
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=80694
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP
@@ -369,7 +377,7 @@ http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
-http://clubtv.link/MZ2403/key4513/distro.php?c=saber-mas
+
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i.scdn.co/image/ab67656300005f1f58dc388ee02e8e71c52c05ea",APRENDE MAS - TV2 SR REGIO
@@ -710,19 +718,19 @@ http://clubtv.link/MZ2403/key4513/esp2.php?c=44341
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=14585
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN - ESP
+
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 1 - ESP 2
-http://clubtv.link/MZ2403/key4513/esp2.php?c=2233
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 2 - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=80611
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 3 - ESP 2
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 2 - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=80634
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 4 - ESP 2
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 3 - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=80684
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 1 - ESP
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES - ESP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 2 - ESP
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES - ESP 2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 1 - ESP 2
+http://clubtv.link/MZ2403/key4513/esp2.php?c=2233
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 2 - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=80611
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 3 S2 - ESP
 http://clubtv.link/MZ2403/key4513/esp2.php?c=2233
