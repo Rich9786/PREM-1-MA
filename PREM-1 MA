@@ -46,7 +46,7 @@ http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a04g&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a04g&f=.m3u8&k=SrRegio
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV6 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a07g&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
 http://clubtv.link/0604ab/key4513/lista1.php?c=a04g&token=TecntvGeneradorTV&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 5
