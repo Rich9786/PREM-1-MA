@@ -299,9 +299,9 @@ http://clubtv.link/0604ab/key4513/android4.php?c=119&token=TECNOTVCLUBGENERADOR|
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - TV2 SR REGIO
-http://190.149.66.90:4000/play/a051/index.m3u8
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a077&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - ANDR 1
-http://clubtv.link/0604ab/key4513/android1.php?c=278&token=TecntvGeneradorTV|user-agent=type21.08k
+http://clubtv.link/0604ab/key4513/android1.php?c=a00n&token=TecntvGeneradorTV
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S2 - ANDR 3
 http://clubtv.link/0604ab/key4513/android3.php?c=a01n&token=TecntvGeneradorTV
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV4 SR REGIO
