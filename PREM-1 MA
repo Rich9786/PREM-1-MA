@@ -2932,7 +2932,7 @@ http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="CHILE",AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="MUSICA",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7a35d3883fddfac7310b8496d0bf982a.webp" group-title="MUSICA",Stingray Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSICA",Stingray Hit List
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
