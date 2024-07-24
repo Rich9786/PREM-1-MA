@@ -25,28 +25,30 @@ https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png", Telezion | CL
 
-#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - TV SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a06i&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - TV2 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a06i&f=.m3u8&k=SrRegio
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - ANDR 4
+http://clubtv.link/jul2307/key4513/android4.php?c=a058&token=TecnotvGenerador
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS
+http://clubtv.link/jul2307/key4513/lista.php?c=a040&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS 1
+http://clubtv.link/jul2307/key4513/lista1.php?c=a040&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a02r&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV2 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a02r&f=.m3u8&k=SrRegio
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV4 SR REGIO
 http://45.166.92.22:58001/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a04g&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV2 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a04g&f=.m3u8&k=SrRegio
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - ANDR 4
+http://clubtv.link/jul2307/key4513/android4.php?c=a01o&token=TecnotvGenerador
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS
+http://clubtv.link/jul2307/key4513/lista.php?c=a05b&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 1
+http://clubtv.link/jul2307/key4513/lista1.php?c=a01l&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - ANDR 4
+http://clubtv.link/jul2307/key4513/android4.php?c=a03b&token=TecnotvGenerador
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS
+http://clubtv.link/jul2307/key4513/lista.php?c=a02c&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 1
-http://clubtv.link/JU19/key4513/lista1.php?c=a02o&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 5
-http://clubtv.link/JU19/key4513/lista5.php?c=a03c&token=TecnotvGenerador
+http://clubtv.link/jul2307/key4513/lista1.php?c=a02o&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 5
 
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6c/be/5e/6cbe5ea5-5f10-6d32-5a02-ac0cca8018de/source/512x512bb.jpg", Cristiana TV | ES
