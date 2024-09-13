@@ -1628,6 +1628,74 @@ http://200.59.188.3:8000/play/a05g
 http://clubtv.link/S1009/key4513/esp.php?c=126161
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM OPC 2 - ESP
 http://clubtv.link/S1009/key4513/esp.php?c=126230
+#EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="CINE", MEGA CINE TV - CL
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 2 - ANDR 0
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
+
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
+
+#EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png", Orbit TV HD - CL
+
+#EXTINF:-1 tvg-id="96701" tvg-name="FMTV 1" tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/s540/frecuenciamusicaltv_logoroku.jpg", Frecuencia Musical TV | US-CL
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
+
+#EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV HD - CL
+
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
+
+#EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg", GEN TV - AR 
+
+#EXTINF:-1 tvg-id="1331" tvg-name="Super TV" tvg-logo="https://www.tvplus.mx/wp-content/uploads/2021/10/supertv-playvideo.jpg", Super TV | CL
+
+#EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME Movie | CL
+
+#EXTINF:-1 tvg-id="1322" tvg-name="TVPJ 2" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ 2 | EC
+
+#EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", EvaStream | CL
+
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
+
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
+
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
+
+
+#EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream - CL
+
+#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie - CL
+
+#EXTINF:-1 tvg-id="891" tvg-name="TVMas Chile" tvg-logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp", TVMas Chile - CL
+
+#EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV | CL
+
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM TV | PY
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - TOP US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - LIS 1-5
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real TV - TOP CL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - LIS 1-5
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño TV - CL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - LIS 1-5
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine - TOP CL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Full HD - LIS 1
+
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE - TV5 SR REGIO
 http://177.93.46.163:8000/play/a023
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE - TV6 SR REGIO 
@@ -1892,74 +1960,6 @@ http://clubtv.link/S1009/key4513/android5.php?c=645&token=TecnotvSep|User-Agent=
 
 
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 2 - ANDR 0
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
-
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
-
-#EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png", Orbit TV HD - CL
-
-#EXTINF:-1 tvg-id="96701" tvg-name="FMTV 1" tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/s540/frecuenciamusicaltv_logoroku.jpg", Frecuencia Musical TV | US-CL
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
-
-#EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV HD - CL
-
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
-
-#EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg", GEN TV - AR 
-
-#EXTINF:-1 tvg-id="1331" tvg-name="Super TV" tvg-logo="https://www.tvplus.mx/wp-content/uploads/2021/10/supertv-playvideo.jpg", Super TV | CL
-
-#EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME Movie | CL
-
-#EXTINF:-1 tvg-id="1322" tvg-name="TVPJ 2" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ 2 | EC
-
-#EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png", EvaStream | CL
-
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
-
-#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
-
-#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
-
-
-#EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream - CL
-
-#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie - CL
-
-#EXTINF:-1 tvg-id="891" tvg-name="TVMas Chile" tvg-logo="https://www.m3u.cl/logo/891_TVMas_Chile.webp", TVMas Chile - CL
-
-#EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV | CL
-
-#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM TV | PY
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - TOP US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - LIS 1-5
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real TV - TOP CL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - LIS 1-5
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño TV - CL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - LIS 1-5
-
-#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="DISTRO TV",Tu Cine - TOP CL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Full HD - LIS 1
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="==== VIX ====" tvg-logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",== VIX CINE Y SERIES ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
@@ -2078,7 +2078,6 @@ http://200.59.188.3:8000/play/a0fr
 
 
 
-
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion - ANDR 1
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/A1wC3pAqT1L._AC_UF1000,1000_QL80_.jpg" group-title="HD",Cine DC Universo COMICS - ANDR 1
@@ -2122,8 +2121,6 @@ http://200.59.188.3:8000/play/a0fr
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD",Cine Terror HD - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis - LIS 1
-
-
 
 
 
@@ -2908,7 +2905,7 @@ https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/teve-musica.png", TU MUSICA HD | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+
 
 
 
