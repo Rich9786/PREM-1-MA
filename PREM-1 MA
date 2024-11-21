@@ -1572,9 +1572,8 @@ http://181.78.105.146:2000/play/a00m/index.m3u8
 http://200.59.188.3:8000/play/a01n
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV10 SR REGIO
 
-
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - ANDR 3
-http://clubtv.link/19nov11/phpcode/android3.php?c=a04t&token=TecnoGenerador10154
+http://clubtv.link/19nov11/phpcode/android3.php?c=a0fj&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - ANDR 4
 http://clubtv.link/19nov11/phpcode/android3.php?c=a0fj&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - LIS 4
