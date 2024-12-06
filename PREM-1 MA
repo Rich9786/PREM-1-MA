@@ -1385,7 +1385,7 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.enter.co/wp-content/uploads/2015/09/The-Fresh-Prince.jpg", El Principe Del Rap - ANDR 0
-http://clubtv.link/dic0324/phpcode/android0.php?c=430&token=TecnoGenerador10154
+
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.enter.co/wp-content/uploads/2015/09/The-Fresh-Prince.jpg", El Principe Del Rap - LIS
 http://clubtv.link/0612Dic/phpcode/lista.php?c=430&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - ANDR 0
@@ -1536,11 +1536,11 @@ http://177.93.46.163:8000/play/a016
 http://200.59.188.3:8000/play/a078
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD S2 - TV10 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD S1 opc 1 - LIS 4
-http://clubtv.link/0612Dic/phpcode/lista4.php?c=a0xn&token=TecnotvGen0003003000333&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 2 - LIS 4
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - LIS 4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 1 - LIS 4
 http://clubtv.link/0612Dic/phpcode/lista4.php?c=a04r&token=TecnotvGen0003003000333&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 3 - LIS 4
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 2 - LIS 4
 http://clubtv.link/0612Dic/phpcode/lista4.php?c=a0fr&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S2 - TV6 SR REGIO
 http://177.93.46.163:8000/play/a022
