@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",29/ENE/2025 - ANDR-LIS-ESP-PEL - SD-HD
-http://tecnotv.club/https:/e290124/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",2/FEB/2025 - ANDR-LIS-ESP-PEL - SD-HD
+http://tecnotv.club/https:/Feb0202/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -26,27 +26,27 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png", Telezion | CL
 
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a058&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a058&token=TecnoGenerador10154
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS
 
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0iy&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0iy&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - TV10 SR REGIO
 
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01o&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01o&token=TecnoGenerador10154
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fa&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fa&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN - LIS 
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03b&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03b&token=TecnoGenerador10154
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a01v&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a01v&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión - LIS 5
@@ -83,9 +83,9 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=941&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=941&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=14&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=14&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - LIS
@@ -241,11 +241,11 @@ http://200.59.188.3:8000/play/a056
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",Nickelodeon S2- TV9 SR REGIO
 
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01t&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01t&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fg&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fg&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fg&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fg&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - TV8 SR REGIO
 
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
@@ -279,17 +279,17 @@ http://200.59.188.3:8000/play/a022
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - ANDR 3
 
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0hm&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0hm&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0hm&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0hm&token=TecnoGenerador10154&f=.m3u8
 
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0 
-http://clubtv.link/e290124/phpcode/android0.php?c=428&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=428&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - LIS
 
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=845&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=845&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - LIS
 
 
@@ -297,44 +297,44 @@ http://clubtv.link/e290124/phpcode/android0.php?c=845&token=Tecnotvplustvplaylis
 
 
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=524&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=524&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - LIS
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=421&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=421&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - LIS
 
 
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=669&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=669&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - LIS
 
 
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=721&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=721&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - LIS
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=422&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=422&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - LIS
 
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=11&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=11&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - LIS
 
 #EXTINF:-1 logo="https://cdn.vectorstock.com/i/1000v/73/93/logo-kids-vector-13477393.jpg" group-title="INFANTIL",Dos Kids HD - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=7&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=7&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - LIS
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_semillitas-amplia-su-distribucion-en-estados-unidos.jpg" group-title="INFANTIL",SEMILLITAS - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_semillitas-amplia-su-distribucion-en-estados-unidos.jpg" group-title="INFANTIL",SEMILLITAS - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0er&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0er&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00g
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV6 SR REGIO
@@ -364,7 +364,7 @@ http://200.59.188.3:8000/play/a06p
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=946&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=946&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - LIS 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
@@ -430,17 +430,17 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S1 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=904&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=904&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S1 - LIS 
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD S2 - ANDR 5
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S2 - ANDR 5
-http://clubtv.link/e290124/phpcode/android4.php?c=a04m&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a04m&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD S2 - LIS 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD S2 - LIS 6
-http://clubtv.link/e290124/phpcode/android4.php?c=a04m&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a04m&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 4
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 5
@@ -458,11 +458,11 @@ http://181.78.105.146:2000/play/a03x/index.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - ANDR 3
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ju&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ju&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ht&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ht&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0ju&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0ju&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
@@ -470,7 +470,7 @@ http://clubtv.link/e290124/phpcode/lista6.php?c=a0ju&token=TecnoGenerador10154&f
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - ANDR 3
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01v&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01v&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD S2 - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET S2 - TV4 SR REGIO
@@ -480,7 +480,7 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a01v&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD S2 - ANDR 0
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29225
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29225
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD OPC 2 - ESP
 
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - TV SR REGIO
@@ -496,7 +496,7 @@ http://200.59.188.3:8000/play/a02t
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - LIS 8
 
 #EXTINF:-1 logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="MUNDO Y CULTURA",NATURE TIME (Nat Geo Wild) - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=77&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=77&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="MUNDO Y CULTURA",NATURE TIME (Nat Geo Wild) - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP
@@ -504,7 +504,7 @@ http://clubtv.link/e290124/phpcode/android0.php?c=77&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP 2
 
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea OPC 1 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=18576
+http://clubtv.link/Feb0202/phpcode/esp.php?c=18576
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea OPC 2 - ESP 
 
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP 3
@@ -512,11 +512,11 @@ http://clubtv.link/e290124/phpcode/esp.php?c=18576
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 - TV6 SR REGIO 
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 1- ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=642&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=642&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 1- LIS
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 OPC 2- ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=67&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=67&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 OPC 2- LIS 
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 - TV SR REGIO
@@ -536,7 +536,7 @@ http://200.59.188.3:8000/play/a033
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=61&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=61&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS
 
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - ANDR 5
@@ -550,9 +550,9 @@ http://clubtv.link/e290124/phpcode/android0.php?c=61&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 5
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=18604
+http://clubtv.link/Feb0202/phpcode/esp.php?c=18604
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD S1 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=76&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=76&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD S1 - LIS
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S2 - ANDR 5
@@ -564,7 +564,7 @@ http://181.78.105.146:2000/play/a01l/index.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S3 - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD S3 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=644&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=644&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD S3 - LIS
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S3 - TV9 SR REGIO
@@ -580,15 +580,15 @@ https://linear-125.frequency.stream/dist/vix/125/hls/master/playlist.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - ANDR 3
-http://clubtv.link/e290124/phpcode/android3.php?c=a04d&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android3.php?c=a04d&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ia&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ia&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0ia&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0ia&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - ANDR 5
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=27&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=27&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1193950715334594560/v_LlUXBT_400x400.jpg" group-title="MUNDO Y CULTURA",ATLAS - TV5 SR REGIO
@@ -597,7 +597,7 @@ http://clubtv.link/e290124/phpcode/android0.php?c=27&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=26&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=26&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - LIS
 
 #EXTINF:-1 logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - ANDR 5
@@ -617,9 +617,9 @@ http://clubtv.link/e290124/phpcode/android0.php?c=26&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a05y&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a05y&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0jv&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0jv&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
 
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
@@ -633,11 +633,11 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a02k
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=961&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=961&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch28&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch28&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK - ANDR 7 
@@ -651,9 +651,9 @@ http://200.59.188.3:8000/play/a01c
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0gn&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0gn&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0gn&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0gn&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
@@ -661,7 +661,7 @@ http://clubtv.link/e290124/phpcode/lista6.php?c=a0gn&token=TecnoGenerador10154&f
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=877079
+http://clubtv.link/Feb0202/phpcode/esp.php?c=877079
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 5
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 7
@@ -669,7 +669,7 @@ http://clubtv.link/e290124/phpcode/esp.php?c=877079
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch32&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch32&token=TecnoGenerador10154
 #EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?tecnotv
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfc62mdr8tTmXGW9ysU4Up1IEsVcyVrlmj4A&usqp=CAU" group-title="MUNDO Y CULTURA",Canal DOS HD - TV5 SR REGIO
@@ -681,13 +681,13 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H S1 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a03g/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S2 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0iw&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0iw&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S2 - ANDR 3
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H S2 - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a055&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a055&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=640&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=640&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - LIS
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - TV4 SR REGIO
@@ -698,17 +698,17 @@ http://clubtv.link/e290124/phpcode/android0.php?c=640&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY HD  - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=905&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=905&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a04l&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a04l&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - LIS 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=152&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=152&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - LIS 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV6 SR REGIO
@@ -724,7 +724,7 @@ http://177.93.46.163:8000/play/a017
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - TV8 SR REGIO
 http://200.59.188.3:8000/play/a07k
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=87&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=87&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - TV6 SR REGIO
@@ -761,21 +761,21 @@ http://200.59.188.3:8000/play/a07p
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD S2 - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a020&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a020&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD S2 - LIS 3 
-http://clubtv.link/e290124/phpcode/lista3.php?c=a096&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista3.php?c=a096&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD S2 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fo&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fo&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJ7I3SCJ941BEElCBq7AdphluhQMvCzzfhw&s" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJ7I3SCJ941BEElCBq7AdphluhQMvCzzfhw&s" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03s&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03s&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0hn&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0hn&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0hn&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0hn&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="ENTRETENIMIENTO",TELEAMAZONAS - ANDR 0
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="ENTRETENIMIENTO",TELEAMAZONAS - ANDR 5
@@ -787,11 +787,11 @@ http://200.59.188.3:8000/play/a021
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01g
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) OPC 1 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0el&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0el&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) OPC 2 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ku&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ku&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS HD (tbs) - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0el&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0el&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV4 SR REGIO
@@ -803,13 +803,13 @@ http://200.59.188.3:8000/play/a02h
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt4XRhHlfKDKlOzuYR1-_8-rNXTOT41VXIQ&s" group-title="SERIES Y CINE",CLAN (ES) - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2565
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2565
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV8 SR REGIO
 http://200.59.188.3:8000/play/a07t
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 3
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00j&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00j&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 4
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 6
@@ -835,7 +835,7 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNTk3ZmM1N2MtZDEzNy00ODgzLWFkYjMtNTk0YjRkZjkyZjFjXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="ENTRETENIMIENTO",Miembros Al Aire - TV3 SR REGIO
 
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=56&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=56&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS 
 
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - ANDR 5
@@ -843,7 +843,7 @@ http://clubtv.link/e290124/phpcode/android0.php?c=56&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=891&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=891&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 5
@@ -857,13 +857,13 @@ http://clubtv.link/e290124/phpcode/android0.php?c=891&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a060&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a060&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a2jq&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a2jq&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a2jq&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a2jq&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=144&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=144&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
@@ -873,39 +873,39 @@ http://clubtv.link/e290124/phpcode/android0.php?c=144&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=177&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=177&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - LIS
 
 #EXTINF:-1 logo="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1537&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1537&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - LIS
-http://clubtv.link/e290124/phpcode/lista0.php?c=68&token=Tecnotvplustvplaylist&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista0.php?c=68&token=Tecnotvplustvplaylist&f=.m3u8
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 0
 
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 5
 
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=400&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=400&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - LIS
 
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=417&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=417&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - LIS
 
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV6 SR REGIO
 http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=32&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=32&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - LIS
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - LIS 3
-http://clubtv.link/e290124/phpcode/lista3.php?c=a08t&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista3.php?c=a08t&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=ihf9&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=ihf9&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 1 - ANDR 5
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 2 - ANDR 5
@@ -917,11 +917,11 @@ http://clubtv.link/e290124/phpcode/lista4.php?c=ihf9&token=TecnotvGen00030030003
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - TV6 SR REGIO
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=480&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=480&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - LIS
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - LIS 6 
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0id&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0id&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 3
 
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - TV4 SR REGIO
@@ -929,7 +929,7 @@ http://clubtv.link/e290124/phpcode/lista6.php?c=a0id&token=TecnoGenerador10154&f
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06v
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 4
-http://clubtv.link/e290124/hpcode/android4.php?c=a04n&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/hpcode/android4.php?c=a04n&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - LIS 3
 
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - LIS 3
@@ -949,11 +949,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 #EXTINF:-1 logo="https://condista.com/wp-content/uploads/2022/01/azclic2023.jpg" group-title="ENTRETENIMIENTO",AZ CLIC - ANDR 3
 
 #EXTINF:-1 logo="https://condista.com/wp-content/uploads/2022/01/azclic2023.jpg" group-title="ENTRETENIMIENTO",AZ CLIC - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a025&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a025&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://condista.com/wp-content/uploads/2022/01/azclic2023.jpg" group-title="ENTRETENIMIENTO",AZ CLIC - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ft&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ft&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://condista.com/wp-content/uploads/2022/01/azclic2023.jpg" group-title="ENTRETENIMIENTO",AZ CLIC - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0ft&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0ft&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET HD - TV8 SR REGIO
@@ -967,7 +967,7 @@ http://181.78.105.146:2000/play/a00n/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0ic&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0ic&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" group-title="ENTRETENIMIENTO",City TV - TV SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" group-title="ENTRETENIMIENTO",City TV - TV4 SR REGIO
@@ -981,7 +981,7 @@ http://200.59.188.3:8000/play/a03o
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - CL
 
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA TV - ANDR 0 
-http://clubtv.link/e290124/phpcode/android0.php?c=766&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=766&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA TV - LIS
 
 #EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - TV2 SR REGIO
@@ -1001,11 +1001,11 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://yt3.googleusercontent.com/fowGXnR2zwm6ClIPpopOdmv2bZy9mW016b4Fx5VppQxAOnIJplP-7Z64PYuSunfOgcDIAqC5=s160-c-k-c0x00ffffff-no-rj",ANTENA 7 RD - ANDR 3
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://yt3.googleusercontent.com/fowGXnR2zwm6ClIPpopOdmv2bZy9mW016b4Fx5VppQxAOnIJplP-7Z64PYuSunfOgcDIAqC5=s160-c-k-c0x00ffffff-no-rj",ANTENA 7 RD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00u&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00u&token=TecnoGenerador10154
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",CANAL 7 HD CR - ANDR 3
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",CANAL 7 HD CR - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01s&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01s&token=TecnoGenerador10154
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - TV4 SR REGIO
@@ -1015,7 +1015,7 @@ http://177.93.46.163:8000/play/a01l
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - TV5 SR REGIO
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 5
-http://clubtv.link/e290124/phpcode/android5.php?c=1154&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/Feb0202/phpcode/android5.php?c=1154&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV - TV6 SR REGIO
@@ -1029,7 +1029,7 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LOGOS-CANAL-TRO-2022.png",CANAL TRO - TV4 SR REGIO
 
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LOGOS-CANAL-TRO-2022.png",CANAL TRO - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ HD - TV5 SR REGIO
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png" nada="Chile" group-title="TV PREMIUM",TVN HD - TV8 SR REGIO
@@ -1049,35 +1049,35 @@ http://clubtv.link/e290124/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_Xq-hr2Oqa1Ql068qSSK4kFQSNJk9OtS2A&s" group-title="ENTRETENIMIENTO",CANAL 2 ESA - ANDR 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_Xq-hr2Oqa1Ql068qSSK4kFQSNJk9OtS2A&s" group-title="ENTRETENIMIENTO",CANAL 2 ESA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03i&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03i&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="ENTRETENIMIENTO",CANAL 6 ESA - ANDR 3 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="ENTRETENIMIENTO",CANAL 6 ESA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a02b&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a02b&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a04w&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a04w&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="ENTRETENIMIENTO",CANAL 3 GUA - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="ENTRETENIMIENTO",CANAL 3 GUA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03g&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03g&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/20/ID_Canal_7_Guatemala_58_a%C3%B1os_2022.jpg/revision/latest/scale-to-width-down/250?cb=20221220014012&path-prefix=es" group-title="ENTRETENIMIENTO",CANAL 7 GUA - ANDR 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/20/ID_Canal_7_Guatemala_58_a%C3%B1os_2022.jpg/revision/latest/scale-to-width-down/250?cb=20221220014012&path-prefix=es" group-title="ENTRETENIMIENTO",CANAL 7 GUA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03f&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03f&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a02a&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a02a&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A3z89EaGRC5sjVimYdxBTx0JQPnafzwoWA&s" group-title="ENTRETENIMIENTO",CANAL 13 GUA - ANDR 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A3z89EaGRC5sjVimYdxBTx0JQPnafzwoWA&s" group-title="ENTRETENIMIENTO",CANAL 13 GUA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a029&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a029&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzCEskPMbB2VKn7Pa-a4qwQ_919nQ3caeYQ&s" group-title="ENTRETENIMIENTO",CANAL ANTIGUA GUA - ANDR 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzCEskPMbB2VKn7Pa-a4qwQ_919nQ3caeYQ&s" group-title="ENTRETENIMIENTO",CANAL ANTIGUA GUA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a03d&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a03d&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
@@ -1249,9 +1249,9 @@ http://200.59.188.3:8000/play/a0f3
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - ESP
 
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - ANDR 4 
-http://clubtv.link/e290124/phpcode/android4.php?c=a05k&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a05k&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - ANDR 6
-http://clubtv.link/e290124/phpcode/android6.php?c=a0e1&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android6.php?c=a0e1&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 5
 
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 6
@@ -1273,15 +1273,15 @@ http://clubtv.link/e290124/phpcode/android6.php?c=a0e1&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - TV4 SR REGIO
 http://200.59.188.3:8000/play/a025
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=944&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=944&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - LIS
 
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - LIS 3
 
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fu&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fu&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD- ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a026&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a026&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - ANDR 3
 
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - LIS 3
@@ -1293,21 +1293,21 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a026&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" group-title="CULTURA",CLAN - ESP
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc00b5nNmcpe7HOWSwsvUrO6PXhMrgF4nSYw&s" group-title="CULTURA",BREAK - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2594
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2594
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc00b5nNmcpe7HOWSwsvUrO6PXhMrgF4nSYw&s" group-title="CULTURA",BREAK OPC 2 - ESP
 
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2542
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2542
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 2
 
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29316
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29316
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF - ESP 2
 
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN - ESP 
-http://clubtv.link/e290124/phpcode/esp.php?c=2589
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2589
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN - ESP 2
 
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN HD - ESP 2
@@ -1315,7 +1315,7 @@ http://clubtv.link/e290124/phpcode/esp.php?c=2589
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN - ESP
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN WHITE - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2588
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2588
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN WHITE - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN WHITE FHD - ESP 2
@@ -1323,7 +1323,7 @@ http://clubtv.link/e290124/phpcode/esp.php?c=2588
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN WHITE HD - ESP 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5ja2kUiPdbGlR6iF9-R346A9NVh1j2Z24A&s" group-title="MUNDO Y CULTURA",SYFY - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=52404
+http://clubtv.link/Feb0202/phpcode/esp.php?c=52404
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5ja2kUiPdbGlR6iF9-R346A9NVh1j2Z24A&s" group-title="MUNDO Y CULTURA",SYFY OPC 2- ESP
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5ja2kUiPdbGlR6iF9-R346A9NVh1j2Z24A&s" group-title="MUNDO Y CULTURA",SYFY - ESP 2
@@ -1333,11 +1333,11 @@ http://clubtv.link/e290124/phpcode/esp.php?c=52404
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5ja2kUiPdbGlR6iF9-R346A9NVh1j2Z24A&s" group-title="MUNDO Y CULTURA",SYFY FHD - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2584
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2584
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP 2
 
 #EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2577
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2577
 #EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 OPC 2 - ESP 
 
 #EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP 2
@@ -1345,7 +1345,7 @@ http://clubtv.link/e290124/phpcode/esp.php?c=2577
 #EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 FULLHD- ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2561
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2561
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 2 - ESP 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 3 - ESP 
@@ -1357,41 +1357,41 @@ http://clubtv.link/e290124/phpcode/esp.php?c=2561
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO FULLHD - ESP 2
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2539
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2539
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP 2
 
 #EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2559
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2559
 #EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO OPC 2 - ESP 
 
 #EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO - ESP 2
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29300
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29300
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=928&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=928&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - LIS
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=2563
+http://clubtv.link/Feb0202/phpcode/esp.php?c=2563
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1809497033092272128/IhEJs_Hn_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29252
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29252
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1809497033092272128/IhEJs_Hn_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=929&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=929&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1809497033092272128/IhEJs_Hn_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - LIS
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29223
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29223
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP 2
 
 #EXTINF:-1 logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MUNDO Y CULTURA",HOLIWOOD - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29307
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29307
 #EXTINF:-1 logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MUNDO Y CULTURA",HOLIWOOD - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29303
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29303
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=927&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=927&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 2 - ESP 2
@@ -1407,15 +1407,15 @@ http://clubtv.link/e290124/phpcode/android0.php?c=927&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 - ESP
 
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 HD - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29302
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29302
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=967&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=967&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 HD - LIS
 
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 - ESP 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29297
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29297
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 2 - ESP 
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 3 - ESP
@@ -1423,15 +1423,15 @@ http://clubtv.link/e290124/phpcode/esp.php?c=29297
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 2 S2 - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES 1 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29254
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29254
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES 2 - ESP 
-http://clubtv.link/e290124/phpcode/esp.php?c=29253
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29253
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 3 - ESP 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 4 - ESP
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR COMEDIA - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=29237
+http://clubtv.link/Feb0202/phpcode/esp.php?c=29237
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR COMEDIA - ESP 2
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ESP
@@ -1469,19 +1469,19 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.enter.co/wp-content/uploads/2015/09/The-Fresh-Prince.jpg", El Principe Del Rap - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=430&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=430&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.enter.co/wp-content/uploads/2015/09/The-Fresh-Prince.jpg", El Principe Del Rap - LIS
 
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=431&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=431&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - LIS
 
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=911&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=911&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - LIS
 
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=798&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=798&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle HD - LIS
 
 #EXTINF:-1 tvg-id="1430" tvg-name="Classic Channel" tvg-logo="https://www.classicchannel.digital/img/logo-radio.png", Classic Channel | CL
@@ -1505,27 +1505,27 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="SERIES Y CINE",MX Prime HD - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA OPC 1 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=126246
+http://clubtv.link/Feb0202/phpcode/esp.php?c=126246
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA OPC 2 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=126279
+http://clubtv.link/Feb0202/phpcode/esp.php?c=126279
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S1 - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00b
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S1 - ANDR 6
-http://clubtv.link/e290124/phpcode/android6.php?c=a0dt&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android6.php?c=a0dt&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=489&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=489&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - LIS
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=45&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=45&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - LIS
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - ANDR 5
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S3 - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a046&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a046&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S3 - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a053&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a053&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV10 SR REGIO
@@ -1537,11 +1537,11 @@ http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY S2 - TV4 SR REGIO
 http://177.93.46.163:8000/play/a021
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=498&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=498&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=145&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=145&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - LIS
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER - TV4 SR REGIO
@@ -1551,7 +1551,7 @@ http://200.59.188.3:8000/play/a070
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a00h
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=503&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=503&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - LIS
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER -1h - TV9 SR REGIO
@@ -1569,11 +1569,11 @@ http://200.59.188.3:8000/play/a05a
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=137&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=137&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S2 - LIS
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=902&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=902&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - LIS
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - TV6 SR REGIO
@@ -1587,7 +1587,7 @@ http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06t
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=901&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=901&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  - LIS
 
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD O S2 - TV6 SR REGIO
@@ -1595,7 +1595,7 @@ http://clubtv.link/e290124/phpcode/android0.php?c=901&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - TV6 SR REGIO
 http://200.59.188.3:8000/play/a05q
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=151&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=151&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - LIS
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - TV9 SR REGIO
@@ -1605,11 +1605,11 @@ http://clubtv.link/e290124/phpcode/android0.php?c=151&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - TV6 SR REGIO
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=42&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=42&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - LIS
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=495&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=495&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - LIS
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - TV6 SR REGIO
@@ -1619,13 +1619,13 @@ http://clubtv.link/e290124/phpcode/android0.php?c=495&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV6 SR REGIO
 http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=474&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=474&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV8 SR REGIO
 http://200.59.188.3:8000/play/a078
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD - ANDR 3
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01y&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01y&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD S1 - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E S1 - TV7 SR REGIO
@@ -1641,7 +1641,7 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a01y&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD S2 - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=476&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=476&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - ANDR 3
@@ -1649,11 +1649,11 @@ http://clubtv.link/e290124/phpcode/android0.php?c=476&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a05n&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a05n&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 1 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a04r&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a04r&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S1 opc 2 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fr&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fr&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S2 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a03u
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN S3 - TV6 SR REGIO
@@ -1683,27 +1683,27 @@ http://181.78.105.146:2000/play/a00m/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=90&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=90&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=650&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=650&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - ANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0jt&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0jt&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0jt&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0jt&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - ANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01a&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01a&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0ew&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0ew&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0ew&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0ew&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES - TV6 SR REGIO
@@ -1711,7 +1711,7 @@ http://clubtv.link/e290124/phpcode/lista6.php?c=a0ew&token=TecnoGenerador10154&f
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=444&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=444&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES HD - LIS
 
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
@@ -1731,7 +1731,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=945&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=945&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - LIS
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
@@ -1749,21 +1749,21 @@ http://clubtv.link/e290124/phpcode/android0.php?c=945&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0j5&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0j5&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - ANDR 3
 
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a05f&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a05f&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0j5&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0j5&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png" group-title="CINE",CINE HISPANO - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch51&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch51&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA - TV SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch57&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch57&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=481&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=481&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA HD - LIS
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA OPC 2 - ANDR 5
@@ -1775,11 +1775,11 @@ http://clubtv.link/e290124/phpcode/android0.php?c=481&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="CINE",DE PELICULA PLUS - ANDR 5
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Pel%C3%ADcula_Cl%C3%A1sico.svg/220px-De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png" group-title="CINE",DE PELICULA CLASICO - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1545&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1545&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Pel%C3%ADcula_Cl%C3%A1sico.svg/220px-De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png" group-title="CINE",DE PELICULA CLASICO - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Pel%C3%ADcula_Cl%C3%A1sico.svg/220px-De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png" group-title="CINE",DE PELICULA CLASICO HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1544&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1544&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Pel%C3%ADcula_Cl%C3%A1sico.svg/220px-De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png" group-title="CINE",DE PELICULA CLASICO HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Pel%C3%ADcula_Cl%C3%A1sico.svg/220px-De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png" group-title="CINE",DE PELICULA CLASICO - ANDR 5
@@ -1801,13 +1801,13 @@ http://200.59.188.3:8000/play/a043
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 3
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a045&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a045&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - LIS 3
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - LIS 6
 
 #EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=186&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=186&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - LIS
 
 #EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - LIS
@@ -1819,13 +1819,13 @@ http://clubtv.link/e290124/phpcode/android0.php?c=186&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch46&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch46&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a038&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a038&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0lz&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0lz&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LIS 6
-http://clubtv.link/e290124/phpcode/android4.php?c=a038&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a038&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - ANDR 4
@@ -1869,9 +1869,9 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a038&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://image.similarpng.com/very-thumbnail/2020/04/GooglePlus-logo-premium-of-golden-social-media-png.png" group-title="CINE",GOLDEN PLUS - LIS 4
 
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 2 
-http://clubtv.link/e290124/phpcode/android2.php?c=ch47&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch47&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=58&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=58&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV6 SR REGIO
@@ -1883,11 +1883,11 @@ http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a05e&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a05e&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OvlJduAPeL8nPrHx7nZdvxLHZr7j79Rjxg&s" group-title="CINE",CINE PREMIUM - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch49&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch49&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYjIVY-KMdMxa4hXQUKBCLmWD7uYCLQAMIw&s" group-title="CINE",CINE FAMILIAR - ANDR 2
-http://clubtv.link/e290124/phpcode/android2.php?c=ch52&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch52&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 4
 
 #EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 6
@@ -1899,39 +1899,39 @@ http://clubtv.link/e290124/phpcode/android2.php?c=ch52&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S1 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a010
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT SUR S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=752&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=752&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT SUR S2 - LIS
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=500&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=500&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - LIS
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - ANDR 3
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0i9&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0i9&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0i9&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0i9&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - ANDR 3
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0f4&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0f4&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0f4&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0f4&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO 
 http://200.59.188.3:8000/play/a05g
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 0 
-http://clubtv.link/e290124/phpcode/android0.php?c=85&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=85&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - LIS 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM FHD OPC 1 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=321425
+http://clubtv.link/Feb0202/phpcode/esp.php?c=321425
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM HD OPC 2 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=321426
+http://clubtv.link/Feb0202/phpcode/esp.php?c=321426
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM SD OPC 3 - ESP
-http://clubtv.link/e290124/phpcode/esp.php?c=321427
+http://clubtv.link/Feb0202/phpcode/esp.php?c=321427
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="CINE", MEGA CINE TV - CL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
@@ -2009,11 +2009,11 @@ http://181.78.105.146:2000/play/a04x/index.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S2 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a00j
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=499&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=499&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S2 - LIS
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=83&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=83&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE S2 - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD S1 - TV SR REGIO
@@ -2023,29 +2023,29 @@ http://clubtv.link/e290124/phpcode/android0.php?c=83&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01z&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01z&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fn&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fn&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fn&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fn&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 4 
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0f5&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0f5&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0f5&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0f5&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - ANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fs&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fs&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fs&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fs&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0e2&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0e2&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0e2&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0e2&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0jz&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0jz&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06u
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE HD - ANDR 3
@@ -2059,11 +2059,11 @@ http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL  - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=84&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=84&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL  - LIS 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=830&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=830&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV8 SR REGIO
@@ -2071,20 +2071,20 @@ http://clubtv.link/e290124/phpcode/android0.php?c=830&token=Tecnotvplustvplaylis
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fq&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fq&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fq&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fq&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=957&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=957&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - LIS
 
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a02w&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a02w&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - TV SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - TV2 SR REGIO
@@ -2096,25 +2096,25 @@ http://181.78.105.146:2000/play/a04j/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S2 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a08i/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0fl&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0fl&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD S3 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0fl&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0fl&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S3 - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0e1&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0e1&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S3 - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0e1&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0e1&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - TV6 SR REGIO
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LIS 4
-http://clubtv.link/e290124/phpcode/lista4.php?c=a0e3&token=TecnotvGen0003003000333&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista4.php?c=a0e3&token=TecnotvGen0003003000333&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LIS 6
-http://clubtv.link/e290124/phpcode/lista6.php?c=a0e3&token=TecnoGenerador10154&f=.m3u8
+http://clubtv.link/Feb0202/phpcode/lista6.php?c=a0e3&token=TecnoGenerador10154&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=200&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=200&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LIS
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=647&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=647&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - LIS 
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - TV6 SR REGIO
@@ -2134,29 +2134,29 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a023&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a023&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL O S1 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a04q/index.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=18&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=18&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL S2 - LIS
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=479&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=479&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 3
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a049&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a049&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=638&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=638&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 HD - LIS
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=739&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=739&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - LIS
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM HD - 
@@ -2183,7 +2183,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
-http://clubtv.link/e290124/phpcode/android5.php?c=642&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/Feb0202/phpcode/android5.php?c=642&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 5
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 0
@@ -2198,7 +2198,7 @@ http://clubtv.link/e290124/phpcode/android5.php?c=642&token=TecnoGenerador10154|
 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=64&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=64&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 5
@@ -2212,11 +2212,11 @@ http://clubtv.link/e290124/phpcode/android0.php?c=64&token=Tecnotvplustvplaylist
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00o
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=814&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=814&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00p&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00p&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 5
@@ -2229,7 +2229,7 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a00p&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a00m
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=977&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=977&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - LIS
 
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - ANDR 0
@@ -2244,15 +2244,15 @@ http://177.93.46.163:8000/play/a01z
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a03r
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=62&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=62&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - LIS
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 3
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 6
-http://clubtv.link/e290124/phpcode/android6.php?c=a0h7&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android6.php?c=a0h7&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00l&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00l&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 5
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV10 SR REGIO
@@ -2270,23 +2270,23 @@ http://clubtv.link/e290124/phpcode/android4.php?c=a00l&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD S2 - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=300&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=300&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 - LIS
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=732&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=732&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - LIS
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 1
-http://clubtv.link/e290124/phpcode/android1.php?c=a026&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android1.php?c=a026&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00m&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00m&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 3
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 5
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 6
-http://clubtv.link/e290124/phpcode/android6.php?c=a0ee&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android6.php?c=a0ee&token=TecnoGenerador10154
 
 
 
@@ -2298,21 +2298,21 @@ http://clubtv.link/e290124/phpcode/android6.php?c=a0ee&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00p
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=63&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=63&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=968&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=968&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00o&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00o&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family KD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 5
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 6
-http://clubtv.link/e290124/phpcode/android1.php?c=a04u&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android1.php?c=a04u&token=TecnoGenerador10154
 
 
 
@@ -2322,21 +2322,21 @@ http://177.93.46.163:8000/play/a00n
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06m
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=64&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=64&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=655&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=655&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - LIS
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00n&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00n&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 5
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 6
-http://clubtv.link/e290124/phpcode/android6.php?c=a0ef&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android6.php?c=a0ef&token=TecnoGenerador10154
 
 
 
@@ -2348,91 +2348,91 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1022&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1022&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=700&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=700&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=707&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=707&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=695&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=695&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=696&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=696&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=915&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=915&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=709&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=709&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia 2 - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=710&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=710&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia 2 - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=712&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=712&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=702&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=702&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=694&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=694&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=703&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=703&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Marvel ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=701&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=701&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Marvel ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=689&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=689&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance 2 ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1023&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1023&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance 2 ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=705&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=705&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=693&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=693&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror 2 ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=913&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=913&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror 2 ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=704&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=704&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=1550&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=1550&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror Sagas ᵸᴰ - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=688&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=688&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis - LIS
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis ᵸᴰ - ANDR 0
-http://clubtv.link/e290124/phpcode/android0.php?c=917&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/Feb0202/phpcode/android0.php?c=917&token=Tecnotvplustvplaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis ᵸᴰ - LIS
 
 
@@ -3225,9 +3225,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="Chile",CNN Chile - TV5 SR REGIO
 
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CNN_LATINO.svg/200px-CNN_LATINO.svg.png" group-title="Chile",CNN EN ESPAÑOL - ANDR 3
-http://clubtv.link/e290124/phpcode/android3.php?c=a01k&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android3.php?c=a01k&token=TecnoGenerador10154
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CNN_LATINO.svg/200px-CNN_LATINO.svg.png" group-title="Chile",CNN EN ESPAÑOL - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a01k&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a01k&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://canvas-bridge02.tubitv.com/VoMMUc_9BCqDnZsBubLmtwU-2yQ=/400x574/smart/img.adrise.tv/f725f8b2-df97-4334-a835-6de89475b912.png" group-title="ENTRETENIMIENTO",ESTRELLA NEWS - GEO
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.tvdigitaldivide.it/wp-content/uploads/2023/03/rai-news-24-hd-16-marzo-2023.jpg" group-title="NOTICIAS",RAI NEW 24 HD - ANDR 9
@@ -3327,13 +3327,13 @@ http://127.0.0.1
 
 
 #EXTINF:-1 logo="https://cdn.clarosports.com/clarosports/2023/02/cropped-cropped-claro-icon-162422-1.jpg" group-title="DEPORTES",CLARO SPORTS 1 HD - ANDR 3
-http://clubtv.link/e290124/phpcode/android3.php?c=a00h&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android3.php?c=a00h&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.clarosports.com/clarosports/2023/02/cropped-cropped-claro-icon-162422-1.jpg" group-title="DEPORTES",CLARO SPORTS 1 HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00h&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00h&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.clarosports.com/clarosports/2023/02/cropped-cropped-claro-icon-162422-1.jpg" group-title="DEPORTES",CLARO SPORTS 2 HD - ANDR 3
-http://clubtv.link/e290124/phpcode/android3.php?c=a00i&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android3.php?c=a00i&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://cdn.clarosports.com/clarosports/2023/02/cropped-cropped-claro-icon-162422-1.jpg" group-title="DEPORTES",CLARO SPORTS 2 HD - ANDR 4
-http://clubtv.link/e290124/phpcode/android4.php?c=a00i&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android4.php?c=a00i&token=TecnoGenerador10154
 
 
 
@@ -3562,7 +3562,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 #EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MIMUSICA ROMANTICA 
-http://clubtv.link/e290124/phpcode/android2.php?c=ch54&token=TecnoGenerador10154
+http://clubtv.link/Feb0202/phpcode/android2.php?c=ch54&token=TecnoGenerador10154
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 1
 
 #EXTINF:-1 tvg-id="110972" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 2
@@ -3585,8 +3585,8 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",29/ENE/2025 - CINE SR REGIO
-http://clubtv.link/e290124/phpcode/peliculas.php?id=1819
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",2/FEB/2025 - CINE SR REGIO
+http://clubtv.link/Feb0202/phpcode/peliculas.php?id=1819
 
 
 
@@ -3794,8 +3794,8 @@ https://goo.gl/gWJEZq
 
 
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",29/ENE/2024 - CINE TECNOTV
-http://clubtv.link/e290124/phpcode/peliculas.php?id=1819
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",2/FEB/2024 - CINE TECNOTV
+http://clubtv.link/Feb0202/phpcode/peliculas.php?id=1819
 
 
 
@@ -7473,9 +7473,6 @@ http://play.enhd.co:7024/;
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Loading Trance Radio
 http://ua.ah.fm:8000/afterhours
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", 181. Fm Power
-http://relay2.181.fm:8128/;?type=.flv
-
 #EXTINF:0 type="stream" tvg-logo="https://goo.gl/TBKbAm" , RADIO LATINA 101.1
 http://streaming.latina101.com.ar:8080/RadioLatina
 
@@ -7692,13 +7689,6 @@ http://www.lengua.com/anthems/USA.mp3
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" group-title="USA",100.1 FM Flagstaff-Prescott
-http://206.190.135.28:8602/listen.
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/cf/3d/29775/1/c175.png" group-title="USA",2000 FM - Hard Rock
-http://107.155.111.170:8110
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" group-title="USA",Ambient Sleeping Pill [Opt-1]
 http://163.172.169.217:80/asp-s
 
@@ -7760,9 +7750,6 @@ http://media-sov.musicradio.com:80/CapitalMP3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Hfmlogo.jpg" group-title="UK",Harborough FM 102.3 [AAC]
 http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hearme.fm/wp-content/uploads/2016/09/hearme-adjusted-border.jpg" group-title="UK",HearMe.fm - Cool Jazz
-http://78.129.251.150:8181/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/51/ec/9458/c175.png" group-title="UK",Heart 106.2 FM London
 http://media-sov.musicradio.com:80/HeartLondonMP3
 
@@ -7799,9 +7786,6 @@ http://www.lengua.com/anthems/Australia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" group-title="AUSTRALIA",4CRB 89.3 FM
 http://stream.4crb.com:8000/stream/1/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" group-title="AUSTRALIA",Coles Radio
-http://coles.streaming.novaentertainment.com.au/sa_nt
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" group-title="AUSTRALIA",Nova 106.9 Brisbane
 http://streaming.novaentertainment.com.au/nova1069
@@ -7888,9 +7872,6 @@ http://www.lengua.com/anthems/France.mp3
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_988a9826c7792b82df51763ac58d060b/logo200.jpg" group-title="FRANCE",Djam Radio
-http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pulsradio.com/DANCE.png" group-title="FRANCE",PulsRadio Dance
 http://213.251.190.165:80/pulsHD.mp3
@@ -8009,8 +7990,6 @@ http://radio.promosat.com:8018/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/09/Radio-BI-88.7-FM-Mexico-Online.jpg" group-title="MEXICO",Radio BI 88.7 FM Aguascalientes
 http://201.159.48.107:2860/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
-http://radio.promosat.com:8006/stream
 
 
 
@@ -8034,26 +8013,11 @@ http://186.103.222.235:8000/FmOkAT.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nYsBmbBJ9A/hqdefault.jpg" group-title="CHILE",FmOkey Copiapo
 http://186.103.222.235:8000/FmOkCP.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/507920177455841280/PSLP_sdm.png" group-title="CHILE",Krishna FM Antofagasta
-http://cast3.serverhost.cl:8760/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="CHILE",Maxima FM 99.1 Antofagasta
-http://cast3.serverhost.cl:8764/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static1.squarespace.com/static/58ff3f0cc534a54886e897b6/t/5903a266d1758e4dabadbe54/1509029382881/?format=1500w" group-title="CHILE",Radio Carinosa 92.1 FM Chillan [AAC]
-http://stream5.eltelon.com/carinosa-chillan.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86643d.png" group-title="CHILE",Radio Carnaval 96.5 FM Antofagasta [AAC]
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centrofm.cl/images/logo.png" group-title="CHILE",Radio Centro 103.3 FM Antofagasta [AAC]
-http://stream5.eltelon.com/centro.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-4BaAzS71yXc/UQAeCvKcBQI/AAAAAAAAFkw/TwU5yNbbj4I/s1600/radio%2Bclub%2B80%2Blogo%2B2013.jpg" group-title="CHILE",Radio Club 80
 http://play.enhd.co:7024/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio38709_1470054272.jpg" group-title="CHILE",Radio Coyhaique 95.3 FM [AAC]
-http://stream5.eltelon.com/radio-coyhaique.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ke0Ferz.jpg" group-title="CHILE",Radio Definitiva 90.5 FM Tocopilla
 http://192.198.83.230:8772/;
@@ -8064,27 +8028,11 @@ http://s6.jcwebnew.com:8070/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/original/1554.jpg" group-title="CHILE",Radio Galaxia
 http://sscl.denialstream.com:8830/;stream/1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38775_1502241503.jpg" group-title="CHILE",Radio Genesis 96.5 FM Curacautin [AAC]
-http://stream5.eltelon.com/genesis.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiogennesis.cl/images/logo.png" group-title="CHILE",Radio Gennesis 92.7 FM Copiapo
 http://atanua.broadcastchile.cl:7000/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1600d.png" group-title="CHILE",Radio La Voz De Yungay 102.7 FM
-http://stream5.eltelon.com/archi-yungay.aac?type=.flv
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.magistralfm.cl/envivo/bann_galvarino.jpg" group-title="CHILE",Radio Magistral 93.9 FM Galvarino
 http://www.magistralfm.cl:9110/galvarino
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84726q.png" group-title="CHILE",Radio San Bartolome 96.7 FM La Serena [AAC]
-http://stream5.eltelon.com/san-bartolome.aac
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s120137d.png" group-title="CHILE",Radio Sur 92.1 FM Los Angeles
-http://ww3.radiosur.cl:5074/rsur
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LOGO_RADIO_SOL.png/225px-LOGO_RADIO_SOL.png" group-title="CHILE",Radio Sol 97.7 FM Antofagasta [AAC]
-http://stream5.eltelon.com/sol-radio.aac
-
 
 
 
@@ -8114,12 +8062,6 @@ http://i50.letio.com/7000.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="COLOMBIA",Totto Radio
 http://stream.exeamedia.com/tottorelay
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Bogota
-http://19493.live.streamtheworld.com/TROPICANAAAC.aac?
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Medellin
-http://17973.live.streamtheworld.com/TR_MEDELLINAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/JYCU6qc4Y2.png" group-title="COLOMBIA",UIS 670 AM Bucaramanga
 http://emisoras.uis.edu.co:8000/mp3am
@@ -8245,9 +8187,6 @@ http://ice3.abradio.cz/alternative128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Blanik
 http://ice.abradio.cz/blanikcz128.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Folk
-http://mp3stream2.abradio.cz:8000/folk.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Relax - Sea
 http://ice6.abradio.cz/relax-sea128.mp3
@@ -8395,18 +8334,6 @@ http://160.75.86.29:8088/stream/3/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="TURKEY",ITU Radio Classical
 http://160.75.86.29:8088/stream/5/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/04/Jazzland-FM.jpg" group-title="TURKEY",Jazzland FM
-http://46.20.3.246/stream/56/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="TURKEY",Radio Shazam
-http://streaming.radio.co/s0ce169aac/listen
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7eHrDaxWcP.png" group-title="TURKEY",Radio Slow Time 91.2 FM Istanbul
-http://37.247.100.118/stream/69/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s266508d.png" group-title="TURKEY",Radyoland - Rockland
-http://46.20.3.246/stream/57/
-
 
 
 
@@ -8440,18 +8367,6 @@ http://stream.eshelnet.com:80/xstream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/07/10506/1/c300.png" group-title="ISRAEL",GalGalatz 91.8 FM Tel Aviv
 http://glzwizzlv.bynetcdn.com/glz_mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/01/7c/40522/1/c175.png" group-title="ISRAEL",Galei Zahal 102.3 FM Haifa
-http://glzwizzlv.bynetcdn.com/glz_aes
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/1b/20615/c175.png" group-title="ISRAEL",Kol Hayam Haadom 102 FM
-http://eilat.cdnwz.net/102fm
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="ISRAEL",Radio Darom 101.5 FM
-http://audio-darom.ecast.co.il/darom101
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d839d133-5f56-4d33-9fb1-9a6e56e480f7.jpg" group-title="ISRAEL",Radio Yasoo
-http://radio-yasoo.ath.cx:7500/
-
 
 
 
@@ -8459,10 +8374,6 @@ http://radio-yasoo.ath.cx:7500/
 http://www.lengua.com/anthems/India.mp3
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radioonlinelive.com/wp-content/uploads/2015/12/Ilayaraja-Radio.jpg" group-title="INDIA",Ilayaraja Radio
-http://212.83.138.48:8324/stream
 
 
 
@@ -8473,29 +8384,10 @@ http://www.lengua.com/anthems/Lebanon.mp3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s251693q.png" group-title="LEBANON",Adeem Radio
-http://192.99.35.215:5109/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/ce1bc99e-d5cb-4909-a70f-86db3a6c9461.jpg" group-title="LEBANON",Flash FM
-http://162.244.80.68:8000/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/95/ce/95ce59bd7d74298c9d376ab452ebef95.jpg" group-title="LEBANON",Jabal Lebnan 107.9 FM Beirut
-http://206.190.133.196:7153/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2015/08/lbi-radio-lebanon.jpg" group-title="LEBANON",LBI Radio
-http://37.187.79.93:8192/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/779402027914895360/zbnCG-ac_400x400.jpg" group-title="LEBANON",Radio Magic
-http://37.59.28.208:8600/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/99DulNM.png" group-title="LEBANON",Radio One 105.5 FM Beirut
-http://rss-streaming.co.uk:8026/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s14220d.png" group-title="LEBANON",Sawt El Mada 92.4 FM Beirut
 http://audiostreaming.itworkscdn.com:9018/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.beirut.com/GetImage3/mainpicture/place/24342/490x300" group-title="LEBANON",Virgin Radio 89.5 FM Beirut
-http://209.15.226.17:9000/stream
 
 
 
