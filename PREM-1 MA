@@ -371,7 +371,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278627&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278629&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",History 2 - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0jp&token=tecnotokenplustv230516F
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a0dj&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 5
@@ -4627,6 +4627,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
