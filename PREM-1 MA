@@ -1405,6 +1405,9 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278467&token=tecnotokenplustv230
 
 
 
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Stingray_Cmusic_Logo.png" group-title="MUSICA",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 #EXTINF:-1 tvg-id="298533" tvg-name="MOSAICO HBO HD i" tvg-logo="https://btv.mx/posters/1741317535372.png" group-title="TV PREMIUM",MOSAICO HBO HD i
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=298533&token=tecnotokenplustv230516F&f=.m3u8
 
@@ -4624,5 +4627,6 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
