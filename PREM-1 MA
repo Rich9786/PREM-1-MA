@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",27/FEB/2026 - ANDR-LIS-ESP-PEL - SD-HD
-http://tecnotv.club/https:/http:/FEB27/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",2/MAR/2026 - ANDR-LIS-ESP-PEL - SD-HD
+http://tecnotv.club/https:/http:/0203F/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -28,7 +28,7 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - TV3 SR REGIO
 http://45.5.119.43:4000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0id&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0id&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1306" tvg-name="Telezion" tvg-logo="https://m.media-amazon.com/images/I/814AENk+EaL.png", La voz de Maria - LIS 4
 
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
@@ -48,7 +48,7 @@ http://45.5.119.43:4000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV3 SR REGIO
 http://45.5.119.43:4000/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - TV8 SR REGIO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0k0&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0k0&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg" group-title="MEXICO", ESNE - LIS 4
 
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6c/be/5e/6cbe5ea5-5f10-6d32-5a02-ac0cca8018de/source/512x512bb.jpg", Cristiana TV | ES
@@ -67,21 +67,21 @@ http://127.0.0.1
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",Azteca Uno -2 (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158619&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158619&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico LEGAL - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a02c&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico HD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158630&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158630&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico -2 (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158631&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158631&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sqODhaQyrK1ju2GsBMxoaTuE9T6hg8fLETGyWzjuZO1XGiKapLKjrAwnFT6PljVH_X7w559IzXY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 4 Televisa Monterrey (1080p) (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158648&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158648&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sqODhaQyrK1ju2GsBMxoaTuE9T6hg8fLETGyWzjuZO1XGiKapLKjrAwnFT6PljVH_X7w559IzXY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 4 TELEVISA MONTERREY (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278364&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278364&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/bXgudGVqdWluby50ZWxldmlzYWdkbF9pY29uXzE2MTc4NzIzOTNfMDU1/icon.png?w=&fakeurl=1" group-title="MEXICO",CANAL 4 GUADALAJARA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278327&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278327&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - ANDR 1
@@ -93,17 +93,17 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO",TV4 2 HD (4.2)
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_J5vYTjtBblcOTfSIO2N039mgjV6vHByUfA&s" group-title="MEXICO",CANAL 4 TELEVISA PUEBLA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278365&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278365&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_J5vYTjtBblcOTfSIO2N039mgjV6vHByUfA&s" group-title="MEXICO",CANAL 4 TELEVISA PUEBLA - ANDR 1
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a05o&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a05o&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278329&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278329&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a05o&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a05o&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - ANDR 1
@@ -111,7 +111,7 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a05o&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://www.multimediostv.com//images/multimedios_logo_main.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://www.multimediostv.com//images/multimedios_logo_main.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - MULTIMEDIOS PLUS HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298456&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298456&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - ANDR 0
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY HD OPC 1 - ANDR 0
@@ -119,11 +119,11 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298456&token=tecnotokenplustv230
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY HD OPC 2 - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278317&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278317&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a026&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a026&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbWm_XNwx5bi1HSZvA93CM4U2XGm_-goKRC2_E8ayXA&s" group-title="MEXICO",MULTIMEDIOS 8 - TV SR REGIO
@@ -147,11 +147,11 @@ https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/qDtPyuvCAF3Tklda8c2M_9ClDx2f1hwoDpzs78Gpm8l-TKRg4zlHesGzEQ1PAYwH_QaztSkGbSY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",ONCE - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/qDtPyuvCAF3Tklda8c2M_9ClDx2f1hwoDpzs78Gpm8l-TKRg4zlHesGzEQ1PAYwH_QaztSkGbSY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Canal Once (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158623&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158623&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/qDtPyuvCAF3Tklda8c2M_9ClDx2f1hwoDpzs78Gpm8l-TKRg4zlHesGzEQ1PAYwH_QaztSkGbSY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",ONCE - ANDR 7
 
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV Mas (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158637&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158637&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ - LIS
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ - LIS
@@ -159,45 +159,45 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", Canal Catorce - TV6 SR REGIO
 
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", Canal Catorce HD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158624&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158624&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", CANAL 14 (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278323&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278323&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - TV6 SR REGIO
 
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",Canal 22 Nacional (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158625&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158625&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22.1 (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278324&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278324&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Unamtv.png/revision/latest?cb=20220917162335" group-title="MEXICO",TV UNAM - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Unamtv.png/revision/latest?cb=20220917162335" group-title="MEXICO",TV UNAM (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158638&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158638&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Unamtv.png/revision/latest?cb=20220917162335" group-title="MEXICO",TV UNAM (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278370&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278370&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzU0yZ30y-bij6FJ_xmSK_O39JObdvzepwQ&s" group-title="MEXICO",MEXIQUENSE TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzU0yZ30y-bij6FJ_xmSK_O39JObdvzepwQ&s" group-title="MEXICO",MEXIQUENSE TV - GEO
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzU0yZ30y-bij6FJ_xmSK_O39JObdvzepwQ&s" group-title="MEXICO",Mexiquense (i) - ANDR 1 
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158639&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158639&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzU0yZ30y-bij6FJ_xmSK_O39JObdvzepwQ&s" group-title="MEXICO",MEXIQUENSE (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278350&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278350&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.excelsior.com.mx/800x600/filters:format(jpg):quality(75)/media/pictures/2022/11/29/2864671.jpg" group-title="MEXICO",MX NUESTRO CINE (CANAL 22.2 (MX)(P)) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278325&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278325&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",Imagen TV HD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158628&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158628&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278342&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278342&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278343&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278343&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674515795437662209/s2FYczuA_400x400.jpg" group-title="MEXICO",AZTECA INTERNACIONAL - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ TV SR REGIO
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A Mas (MX)(i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159054&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159054&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A mas (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278312&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278312&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unIacu1.png" group-title="MEXICO",Transmedia TV Morelia - FLUX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 2 Saltillo - FLUX
@@ -207,9 +207,9 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278312&token=tecnotokenplustv230
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5p94hZWh9486GgVaGbFyLgEFKiuShe9P8w&s" group-title="MEXICO",Telemax Hermosillo - FLUX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5p94hZWh9486GgVaGbFyLgEFKiuShe9P8w&s" group-title="MEXICO",Telemax (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158640&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158640&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5p94hZWh9486GgVaGbFyLgEFKiuShe9P8w&s" group-title="MEXICO",TELEMAX SONORA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278378&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278378&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://ventanaver.mx/wp-content/uploads/2022/02/TV-MAS-LOGO.jpg" group-title="MEXICO",TVMAS - TV4 SR REGIO
 
 
@@ -227,15 +227,15 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",DISCOVERY ID HD HD S1 - TV SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0ks&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ks&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",INVESTIGATION DISCOVERY HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278634&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278634&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",INVESTIGATION DISCOVERY (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278633&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278633&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",Discovery ID FHD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=165459&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=165459&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 2
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/-ZxaiaRpQZT-sczoNJNP2OoEm0pxOIxgcq5kSXMmhBGlw_g8yzyxv06EMVcieuYMzBE" group-title="MUNDO Y CULTURA",DISCOVERY ID S2 - ANDR 5
@@ -245,13 +245,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=165459&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",UNIVERSAL CRIME HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0i4&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",UNIVERSAL CRIME HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0i4&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0i4&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",Universal Crime Este HD (MX)(P) - ANDR 1 
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278474&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278474&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",Universal Crime Oeste HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278475&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278475&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",UNIVERSAL CRIME S2 - ANDR 4
 
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="SERIES Y CINE",UNIVERSAL CRIME HD S2 - LIS 3
@@ -269,13 +269,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278475&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (MX)(i) op3 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=166473&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=166473&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kn&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0kn&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (MX)(i) op3 - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - LIS 1
@@ -287,11 +287,11 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kn&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - LIS 6
 
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278617&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278617&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",Animal Planet HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0gq&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0gq&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET - LIS 1
 
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD S2 - ANDR 5
@@ -299,7 +299,7 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a0gq&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD S2 - ANDR 0
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NatGeo Wild HD.(i) - ESP ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159938&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159938&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD OPC 2 - ESP
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="MUNDO Y CULTURA",Love Nature HD - TV SR REGIO
@@ -307,7 +307,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=159938&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="MUNDO Y CULTURA",Love Nature HD - TV8 SR
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="MUNDO Y CULTURA",Love Nature - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=296574&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=296574&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="MUNDO Y CULTURA",Love Nature - LIS 1
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="MUNDO Y CULTURA",Love Nature HD - LIS 7
@@ -335,17 +335,17 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=296574&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 - TV6 SR REGIO 
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch7&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch7&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298377&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298377&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",History HD Latino (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158862&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158862&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",History Channel FHD Mexico (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158861&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158861&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",History Channel HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0gk&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0gk&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 - TV SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD S2 - TV8 SR REGIO
@@ -363,15 +363,15 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a0gk&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298376&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298376&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 LQ (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278627&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278627&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278629&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278629&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",History 2 - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0dj&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0dj&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 5
@@ -379,17 +379,17 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a0dj&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ESP
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S1 - (NatGeo Wild FHD (i)) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158864&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158864&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NATGEO HD (MX)(P) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278637&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278637&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S2 - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch5&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch5&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD S2 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NATGEO (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278636&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278636&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",Nat Geo HD S2 - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kk&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0kk&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO S2 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO  S3 - TV4 SR REGIO
@@ -413,13 +413,13 @@ https://linear-125.frequency.stream/dist/vix/125/hls/master/playlist.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278623&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278623&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278622&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278622&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0hv&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0hv&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - LIS 6
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER HD - ANDR 5
@@ -431,7 +431,7 @@ http://tecnotv.club/FEB27/phpcode/android3.php?c=a0hv&token=tecnotokenplustv2305
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgveTxLjrfW342o8BcTegkfphsaiSSi4ucA&s" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgveTxLjrfW342o8BcTegkfphsaiSSi4ucA&s" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278621&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278621&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgveTxLjrfW342o8BcTegkfphsaiSSi4ucA&s" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - ANDR 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgveTxLjrfW342o8BcTegkfphsaiSSi4ucA&s" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - LIS 3
@@ -449,13 +449,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278621&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278625&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278625&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278624&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278624&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kp&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0kp&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - LIS 1
 
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
@@ -475,9 +475,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 0
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278401&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278401&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",Food Network (i) op2 - ANDR 2
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=166446&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=166446&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 3
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK - ANDR 7 
@@ -485,21 +485,21 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=166446&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1280px-Food_Network_logo.svg.pngh" group-title="MUNDO Y CULTURA",FOOD NETWORK - LIS 4
 
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278421&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278421&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278420&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278420&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a04v&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a04v&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD (MX)(P) - ANDR 1 
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278430&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278430&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278429&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278429&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a050&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a050&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - LIS 4
@@ -521,7 +521,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - ANDR 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=165457&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=165457&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
 
 #EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png", 13 Cultura
@@ -535,17 +535,17 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti - CUBA
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",Home & Health HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hw&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",Home & Health HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0hw&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0hw&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH HD (MX)(P) - ANDR 1 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278411&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278411&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278395&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278395&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HyH FHD (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=165458&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=165458&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - ANDR 0
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - ANDR 1
@@ -555,39 +555,39 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=165458&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD  - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",Universal Reality HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278478&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278478&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0i3&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",Uni-versal Reality (MX)(i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=160109&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=160109&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0i3&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0i3&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gb&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298507&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298507&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298382&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298382&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD (MX)(P) - ANDR 1 
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278433&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278433&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278432&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278432&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0gb&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0gb&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",DISCOVERY TLC HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278413&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278413&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",Discovery TLC (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278407&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278407&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hh&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0hh&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0hh&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - TV6 SR REGIO
 
 
@@ -609,9 +609,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEPg2wnnk9iRFvsrZoK4xY-DgycT1FRxKjg&s" group-title="ENTRETENIMIENTO",TELEMUNDO 52 LA - LIS
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",Telemundo HD INTERNACIONAL - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTER HD - LIS 4
-http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista4.php?c=a0mg&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL S1 - TV8 SR REGIO
@@ -629,9 +629,9 @@ http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0mg&token=tecnotokenplustv230516
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJ7I3SCJ941BEElCBq7AdphluhQMvCzzfhw&s" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZTECA MUNDO HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278357&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278357&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZTECA MUNDO (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278356&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278356&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - LISP
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - ANDR 1
@@ -643,42 +643,16 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278356&token=tecnotokenplustv230
 #EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | TOP TR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama HD | TV8 SR REGIO
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=296581&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=296581&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT Novelas (MX)(P) (tbs) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278408&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278408&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - LIS 4
-http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista4.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="ESPAÑA",== ESPAÑA ==
-http://127.0.0.1
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmf09KZpqD3mTFsqqwxB58m5UpFfCrg5voH771r58ad7boqKWu" group-title="Without category",ALCARRIA TV
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="Andalucía" tvg-name="Estepona TV",Estepona TV
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Diez TV",Diez TV
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="Canarias" tvg-name="RTV Mogán",RTV Mogán
-https://cloudvideo.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Punt 3 Vall Uixó",Punt 3 Vall Uixó HD
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón TV",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
 
 
@@ -722,6 +696,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="96701" tvg-name="FMTV 1" tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/s540/frecuenciamusicaltv_logoroku.jpg", Frecuencia Musical TV | US-CL
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JwRWQRAqMiLd8Y4iJOJ2VjcRb1-kmihowobe1eh4MuKCBz1Mxqh7U1Omg48qxgfW8oY&usqp=CAU", REWIND SOLO CLÁSICOS - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="SERIES Y CINE",MX Family HD - TV5 SR REGIO
@@ -739,11 +715,11 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S1 - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",STAR CHANNEL HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hn&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD (MX)(i) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=166927&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=166927&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD op2 (MX)(i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=166928&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=166928&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - ANDR 2 
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - ANDR 0
@@ -761,29 +737,29 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=166928&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",Sony Cine HD (MX)(i) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158792&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158792&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278404&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278404&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY HD S3 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY HD (1080p) (MX)(P) S4 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278405&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278405&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",Sony HD (MX)(i) S4 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159201&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159201&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY HD  S4 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159257&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159257&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S3 - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S3 - ANDR 1
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",Warner Latino (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=165455&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=165455&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278454&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278454&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278453&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278453&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2 - ANDR 0
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2 - ANDR 1
@@ -799,17 +775,17 @@ http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0ho&token=tecnotokenplustv230516
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",Universal S1 - GEO
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL TV HD (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278449&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278449&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL TV (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278448&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278448&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - ANDR 2
 
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",UNIVERSAL PREMIERE O HD - ANDR 1
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",Universal Premier Este HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278476&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278476&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",Universal Premier Oeste HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278477&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278477&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV10 SR REGIO
@@ -823,9 +799,9 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278477&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  S2 - ANDR 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA Latino HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278452&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278452&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA Latino (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278451&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278451&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA S1 - TV4
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA HD S2 - ANDR 0
@@ -839,13 +815,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278451&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD S1 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278427&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278427&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278426&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278426&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD (i) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158684&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158684&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - TV6 SR REGIO
@@ -857,33 +833,33 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=158684&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E S1 HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E E (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158672&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158672&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278389&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278389&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278388&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278388&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD - ANDR 1
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD - ANDR 3
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/97b0c252337901.Y3JvcCw4MTAsNjM0LDAsMA.jpg" group-title="SERIES Y CINE",AXN S1 - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch4&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch4&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/97b0c252337901.Y3JvcCw4MTAsNjM0LDAsMA.jpg" group-title="SERIES Y CINE",AXN HD S2 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0iy&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/97b0c252337901.Y3JvcCw4MTAsNjM0LDAsMA.jpg" group-title="SERIES Y CINE",AXN HD (MX)(P) S3 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278386&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278386&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/97b0c252337901.Y3JvcCw4MTAsNjM0LDAsMA.jpg" group-title="SERIES Y CINE",AXN (MX)(P) S3 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278385&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278385&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES S1 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES S2 - TV SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT Series HD S1 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0km&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278443&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278443&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278442&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278442&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES - TV6 SR REGIO
@@ -891,22 +867,24 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278442&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3SERIES HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3 SERIES - LIS 2
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b0&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/lista2.php?c=a0b0&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3 SERIES - LIS 4
-http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista4.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3 SERIES - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0b0&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0b0&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZB7myBvGpayCLqzGVO7SXlB2YnB8m8TZ_g&s", 13 Teleseries - LIS 2
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0ni&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/lista2.php?c=a0ni&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZB7myBvGpayCLqzGVO7SXlB2YnB8m8TZ_g&s", 13 Teleseries - LIS 4
-http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista4.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZB7myBvGpayCLqzGVO7SXlB2YnB8m8TZ_g&s", 13 Teleseries - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0ni&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ni&token=tecnotokenplustv230516F
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES CINE ====" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Cine",== CINE ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
-
 
 
 
@@ -933,29 +911,29 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - LIS 6
 
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",CINE LATINO LQ (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278521&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278521&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",CINE LATINO - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lq&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0lq&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://d2p1nnn035jt22.cloudfront.net/spw/images/releases/2017/cinelatino.png" group-title="CINE",Cine Latino - TV3
 http://45.5.119.43:4000/play/a0ik/index.m3u8
 #EXTINF:-1 logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png" group-title="CINE",CINE HISPANO - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=295&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA - TV SR REGIO
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA HD (1080p) (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278458&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278458&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278456&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278456&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg" group-title="CINE",DE PELICULA - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",De Pelicula Plus HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278470&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278470&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA + (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278457&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278457&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA PLUS - ANDR 4
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA PLUS - ANDR 5
@@ -983,13 +961,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278457&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/aa2ccc7e033967b5dcaea0bd50ed07e76c895a8b104aa4154e558414f9a3f1ef.png" group-title="CINE",FILMEX PELICULAS - ANDR 4
 
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/aa2ccc7e033967b5dcaea0bd50ed07e76c895a8b104aa4154e558414f9a3f1ef.png" group-title="CINE",Filmex Clasico (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=168600&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=168600&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="180633" tvg-name="Ultra Clásico (p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAu49bFnj7bs2tTMxuPy9S3l6WoYPwrepHA&s" group-title="TV PREMIUM 2",Ultra Clásico (p) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=180633&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=180633&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278469&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278469&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - ANDR 4
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - LIS 3
@@ -997,17 +975,17 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278469&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - LIS 6
 
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Az Cinema HD (MX)(i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159209&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159209&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278465&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278465&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278464&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278464&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 4
 
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 5
 
 #EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298424&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298424&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX - ANDR 1
 
 #EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX - ANDR 1
@@ -1015,9 +993,9 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298424&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278483&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278483&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278479&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278479&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LISP
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LIS 6
@@ -1037,11 +1015,11 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278479&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278486&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278486&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD i - ANDR 1 
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298426&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298426&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2HR HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298425&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298425&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 HD - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 HD - ANDR 2
@@ -1053,11 +1031,11 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298425&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278484&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278484&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS LQ (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278485&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278485&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN + MX (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158783&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158783&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS
 
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS 1
@@ -1065,27 +1043,27 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=158783&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS 4
 
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",Golden Edge HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278481&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278481&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",GOLDEN EDGE (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278480&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278480&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",GOLDEN EDGE LQ (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278482&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278482&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=168599&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=168599&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MC Multicinema (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278509&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278509&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MULTICINEMA - - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lo&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0lo&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MULTICINEMA - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278510&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278510&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lp&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0lp&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OvlJduAPeL8nPrHx7nZdvxLHZr7j79Rjxg&s" group-title="CINE",CINE PREMIUM - ANDR 2
 http://clubtv.link/11agt/phpcode/android2.php?c=ch49&token=TecnoplusJunio03
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYjIVY-KMdMxa4hXQUKBCLmWD7uYCLQAMIw&s" group-title="CINE",CINE FAMILIAR - ANDR 2
@@ -1095,7 +1073,7 @@ http://clubtv.link/11agt/phpcode/android2.php?c=ch52&token=TecnoplusJunio03
 #EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZczhnucKjtM5fU2vA0cNBX8l-YpyCeJG16w&swww.google.com" group-title="CINE Y SERIES",BOX CINEMA - GEO
-http://tecnotv.club/FEB27/phpcode/distro.php?c=box-cinema
+http://tecnotv.club/0203F/phpcode/distro.php?c=box-cinema
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - LIS 2
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S1 - LIS 5
@@ -1103,15 +1081,15 @@ http://tecnotv.club/FEB27/phpcode/distro.php?c=box-cinema
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - ANDR 3
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278520&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278520&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278519&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278519&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278406&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278406&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM - ANDR 1
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM FHD OPC 1 - ESP
@@ -1125,13 +1103,13 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278511&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278511&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO FHD Mexico (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158791&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158791&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES,Cine Espanto - GEO
-http://tecnotv.club/FEB27/phpcode/runtime.php?c=6126
+http://tecnotv.club/0203F/phpcode/runtime.php?c=6126
 #EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", CINE Terror - INDEX GENBETA
@@ -1197,27 +1175,27 @@ http://200.59.188.3:8000/play/a0fr
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico - INDEX GENBETA
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance - LIS
-http://tecnotv.club/FEB27/phpcode/runtime.php?c=6119
+http://tecnotv.club/0203F/phpcode/runtime.php?c=6119
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE MX S1 - TV6 SR REGIO 
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S1 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278516&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278516&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278515&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278515&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",Space (i) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158793&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158793&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD S1 - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278394&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278394&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278393&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278393&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC S2 - ANDR 2
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD - LIS 6
@@ -1229,7 +1207,7 @@ http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC - LIS 6
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - TV3
 http://45.5.119.43:4000/play/a0gy/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 2
@@ -1241,11 +1219,11 @@ http://45.5.119.43:4000/play/a0gy/index.m3u8
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE HD - LIS 6
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",Universal Cinema HD (MX)(P) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278472&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278472&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",Uni-versal Cinema HD (i) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158697&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158697&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",UNIVERSAL CINEMA HD S2 - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA HD S2 - TV3
 http://45.5.119.43:4000/play/a0kt/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 1
@@ -1263,11 +1241,11 @@ http://45.5.119.43:4000/play/a0kt/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278518&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278518&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278517&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278517&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",Studio Uni-versal (i)  - ANDR 1
-b/FEB27/phpcode/lista01.php?c=158794&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158794&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL  - ANDR 1 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV8 SR REGIO
@@ -1275,7 +1253,7 @@ b/FEB27/phpcode/lista01.php?c=158794&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA EUROPA HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278399&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278399&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 2
@@ -1289,7 +1267,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278399&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EUROCHANNEL (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278423&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278423&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 4
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - TV SR REGIO
@@ -1299,13 +1277,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278423&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 2
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",Film & arts HD S1 -  GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM ARTS. (i) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158682&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158682&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278424&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278424&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS (MX)(P) S2 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278400&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278400&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S3 - LIS 6
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - TV6 SR REGIO
@@ -1331,7 +1309,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278400&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - INDEX GENBETA
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - Sony HD (MX)(i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=159201&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159201&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 4
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 6
@@ -1339,19 +1317,19 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=159201&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278471&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278471&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - TV3
 http://45.5.119.43:4000/play/a03s/index.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL O HD S1 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",Cinecanal HD MEX k (i) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158778&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158778&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278463&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278463&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278462&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278462&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD S2 - ANDR 0
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD S2 - ANDR 1
@@ -1365,9 +1343,9 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278462&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278468&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278468&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278467&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278467&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - ANDR 1
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - ANDR 3
@@ -1375,16 +1353,6 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278467&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - LIS 2
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - LIS 3
-
-#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - LIS 5
-
-#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 HD - ANDR 4
-
-#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 HD - ANDR 5
-
-#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - ANDR 0
-
-#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S2 - ANDR 1
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM HD - 
 
@@ -1409,20 +1377,20 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278467&token=tecnotokenplustv230
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="298533" tvg-name="MOSAICO HBO HD i" tvg-logo="https://btv.mx/posters/1741317535372.png" group-title="TV PREMIUM",MOSAICO HBO HD i
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298533&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298533&token=tecnotokenplustv230516F&f=.m3u8
 
 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - LISP
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278505&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278505&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278504&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278504&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298503&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298503&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298371&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298371&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO Signature - ANDR 1
 
 
@@ -1430,13 +1398,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298371&token=tecnotokenplustv230
 EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 1
 
 #EXTINF:-1 logo="https://i.pinimg.com/736x/49/88/46/4988468a57299ab73dba67fb17fdcb6d.jpg" group-title="CINE",HBO MUNDI HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278501&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278501&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/49/88/46/4988468a57299ab73dba67fb17fdcb6d.jpg" group-title="CINE",HBO MUNDI (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278500&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278500&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/49/88/46/4988468a57299ab73dba67fb17fdcb6d.jpg" group-title="CINE",HBO MUNDI HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298368&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298368&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/49/88/46/4988468a57299ab73dba67fb17fdcb6d.jpg" group-title="CINE",HBO MUNDI HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298429&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298429&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/49/88/46/4988468a57299ab73dba67fb17fdcb6d.jpg" group-title="CINE",HBO Mundi - ANDR 1
 
 
@@ -1444,13 +1412,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298429&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278508&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278508&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278507&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278507&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298372&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298372&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298430&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298430&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 1
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 1
@@ -1461,13 +1429,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298430&token=tecnotokenplustv230
 
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b7778162294681.Y3JvcCwxMDEzLDc5Miw0NTMsMTQy.jpg" group-title="CINE",HBO POP HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278503&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278503&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b7778162294681.Y3JvcCwxMDEzLDc5Miw0NTMsMTQy.jpg" group-title="CINE",HBO POP (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278502&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278502&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b7778162294681.Y3JvcCwxMDEzLDc5Miw0NTMsMTQy.jpg" group-title="CINE",HBO POP HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298500&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298500&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b7778162294681.Y3JvcCwxMDEzLDc5Miw0NTMsMTQy.jpg" group-title="CINE",HBO POP HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298370&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298370&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b7778162294681.Y3JvcCwxMDEzLDc5Miw0NTMsMTQy.jpg" group-title="CINE",HBO POP HD - ANDR 1
 
 
@@ -1475,13 +1443,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298370&token=tecnotokenplustv230
 
 
 #EXTINF:-1 logo="https://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278498&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278498&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278488&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278488&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298367&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298367&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298494&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298494&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="ttps://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO S2 - ANDR 1
 
 #EXTINF:-1 logo="ttps://s.yimg.com/ny/api/res/1.2/ovsnPXqH4mScabsgoMbysg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4MjtjZj13ZWJw/https://media.zenfs.com/en_us/News/Reuters/2014-10-15T163152Z_1007910001_LYNXNPEA9E0TH_RTROPTP_2_INTERNET-MEDIOS-TIMEWARNER.JPG" group-title="CINE",HBO S2 - ANDR 2
@@ -1493,11 +1461,11 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298494&token=tecnotokenplustv230
 
 
 #EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278493&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278493&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278492&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278492&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298373&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298373&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD S2 - ANDR 1
 
 #EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 4
@@ -1515,13 +1483,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298373&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO Family - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO FAMILY HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278496&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278496&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO FAMILY (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278495&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278495&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO FAMILY HD i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298366&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298366&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO FAMILY HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298495&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298495&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO Family HD - ANDR 2
 
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWahw4tQNST-Q3aCI198DdYFLvmE7ZUgjS87o3gPoORG8EpvXZ_LxjArI8XSMeL9oDxFpS_D39yeFSvjt6ajlJkQmkIjTfbyjMb02_vcVvb1Z3UowkSitKtZzYGAfs3AobzsPc3JkAWOzSEVwv4Aky69g5SufOTjzh-pzfeQnGHmWWOEBVu1fdwgM08Hj/s16000-rw/HBO-Family-USA.png" group-title="CINE",HBO Family HD - LISP
@@ -1546,15 +1514,15 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=298495&token=tecnotokenplustv230
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus - ANDR 1
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO + HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278490&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278490&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO + (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278489&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278489&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO PLUS HD op2 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298498&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298498&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO PLUS HD op3 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298501&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298501&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO PLUS HD op4 i - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=298369&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/lista01.php?c=298369&token=tecnotokenplustv230516F&f=.m3u8
 
 
 
@@ -1806,7 +1774,6 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD",Cine Terror HD - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis - LIS 1
-
 
 
 
@@ -2577,9 +2544,9 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 #EXTINF:-1 group-title="MUSICA" tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQWDrmN0BOPto3otv_S6_bSN84cCYj0O-6Q&s", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a02r&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a02r&token=tecnotokenplustv230516F
+http://tecnotv.club/0203F/phpcode/android3.php?c=a02r&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="MUSICA",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png", Solobailalo TV
@@ -2645,22 +2612,6 @@ http://clubtv.link/11agt/phpcode/peliculas.php?id=1819
 
 
 
-
-
-DE BUENA CALIDAD, NETFLIX, AMAZON Y OTRAS MAS. "FILMSTRENOS"
-
-
-
-
-DE BUENA CALIDAD, NETFLIX, AMAZON Y OTRAS MAS. "FILMSS"
-
-
-
-
-DE BUENA CALIDAD, NETFLIX, AMAZON Y OTRAS MAS. "FILMSS" "SUBTITULADAS EN ESPAÑOL"
-
-
-
 #EXTINF:-1 tvg-logo="https://img.chilango.com/2017/02/la-maldicion-el-inicio-del-fin.jpg" group-title="MOVIES", LA MALDICION EL INICIO DEL FIN (TERROR)
 https://goo.gl/gWJEZq
 
@@ -2684,7 +2635,6 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 
 
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/STEREOREY_827871_config_default_cover_image.png" group-title="C-AUDIO", Stereorey
-
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/16/3_1447268604_alfa-963.jpg" group-title="C-AUDIO", Alfa Fm 96.3 FM
 http://radioonline.netgate.com.uy:8000/alfafm
@@ -4627,7 +4577,4 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
-
-
-
 
