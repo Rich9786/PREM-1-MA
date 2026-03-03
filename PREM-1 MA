@@ -652,6 +652,164 @@ http://tecnotv.club/0203F/phpcode/lista01.php?c=278408&token=tecnotokenplustv230
 http://tecnotv.club/0203F/phpcode/lista4.php?c=a0m2&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - GEO
 http://tecnotv.club/0203F/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV SR REGIO
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV4 SR REGIO
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTERTAINMENT",E! ENTERTAINMENT HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278418&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! Entertainment (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278417&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! Entertairment HD - GEO
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt4XRhHlfKDKlOzuYR1-_8-rNXTOT41VXIQ&s" group-title="SERIES Y CINE",CLAN (ES) - ESP
+
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV3 SR REGIO
+http://45.5.119.43:4000/play/a0fv/index.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 4
+
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 4
+
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 6
+
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV SR REGIO
+
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV2 SR REGIO
+
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1834642320307650560/CFJ6-GKG_400x400.jpg" group-title="ENTRETENIMIENTO",TLT HD - TV8 SR REGIO
+
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1834642320307650560/CFJ6-GKG_400x400.jpg" group-title="ENTRETENIMIENTO",TLT - TV8 SR REGIO
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdw73g-su7KOybMwmypNGn6oiOxLRWISbvg&s" group-title="ENTRETENIMIENTO",UNICABLE HD (1080p) (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278446&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdw73g-su7KOybMwmypNGn6oiOxLRWISbvg&s" group-title="ENTRETENIMIENTO",UNICABLE (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278445&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdw73g-su7KOybMwmypNGn6oiOxLRWISbvg&s" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 3
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ov&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdw73g-su7KOybMwmypNGn6oiOxLRWISbvg&s" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 1
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdw73g-su7KOybMwmypNGn6oiOxLRWISbvg&s" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 2
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNTk3ZmM1N2MtZDEzNy00ODgzLWFkYjMtNTk0YjRkZjkyZjFjXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="ENTRETENIMIENTO",Miembros Al Aire - TV3 SR REGIO
+
+#EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",G-vision NewYork (i) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158685&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",G-vision Miami (i) - ANDR 1 
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158686&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",G-vision Sacramento (i) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158687&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 1
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 5
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Epoca2019.png/revision/latest/scale-to-width-down/250?cb=20201031133436&path-prefix=es" group-title="ENTRETENIMIENTO",EPOCA - ANDR 3
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",Univision HD - GEO
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",Univision HD - TV3 SR REGIO
+http://45.5.119.43:4000/play/a0kr/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV10 SR REGIO
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV5
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION - LISP
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - LIS 6
+
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
+
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 1
+
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
+
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV S1
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",Estrella TV (KRCA) (i) S2 - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158680&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 1
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 2
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - LISP
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
+
+#EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 2
+
+#EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 5
+
+#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 0
+
+#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 1
+
+#EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 0
+
+#EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 1
+
+
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV6 SR REGIO
+
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278416&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278415&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - ANDR 3
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ou&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - TV3 SR REGIO
+http://45.5.119.43:4000/play/a05l/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 1 - ANDR 5
+
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 2 - ANDR 5
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - TV4 SR REGIO
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - TV6 SR REGIO
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - TV6 SR REGIO
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278410&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278409&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",Comedy Central FHD. (i) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158673&token=tecnotokenplustv230516F&f=.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N2lW9C.png" group-title="ESPAÑA",== ESPAÑA ==
+http://127.0.0.1
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmf09KZpqD3mTFsqqwxB58m5UpFfCrg5voH771r58ad7boqKWu" group-title="Without category",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="Andalucía" tvg-name="Estepona TV",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-id="DiezTV.TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Diez TV",Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="Canarias" tvg-name="RTV Mogán",RTV Mogán
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Punt 3 Vall Uixó",Punt 3 Vall Uixó HD
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón TV",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
 
 
@@ -660,6 +818,7 @@ http://tecnotv.club/0203F/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516
 
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES SERIES Y CINE ====" tvg-logo="https://images.reblog.hu/uploads/blogs/51442/avatar20200331013350.png" group-title="SERIES Y CINE",== SERIES Y CINE ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
+
 
 
 
@@ -4577,4 +4736,5 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
